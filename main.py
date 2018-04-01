@@ -84,8 +84,15 @@ class populacao:
         self.geracao += 1
 
 def main():
-    tamanho = int(input("Digite o tamanho da população(Recomendado -> 100): "))
-    frase = input("Digite a palavra para a ser descoberta: ")
+    print("\n\tFeito por Rafael Faustini")
+    print("——————————————————————————————————————————————")
+    print("Essa aplicação é sujeita a bugs, sinta-se livre a corrigi-los no git ou reporta-los")
+    print("———————————————————————————————————————————————")
+    print("\tÉ recomendado um valor menor do que 2000")
+    tamanho = int(input("Digite o tamanho da população: "))
+    print("———————————————————————————————————————————————")
+    print("\tNessa versão de testes é recomendado uma palavra menor ou igual a 10 caracteres")
+    frase = str(input("Digite a palavra para a ser descoberta: "))
     pop = populacao(tamanho,frase)
     while(pop.lista[0].gene!= frase):
        pop.fitness(frase)
