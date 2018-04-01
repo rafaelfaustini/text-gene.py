@@ -89,7 +89,13 @@ def main():
     print("Essa aplicação é sujeita a bugs, sinta-se livre a corrigi-los no git ou reporta-los")
     print("———————————————————————————————————————————————")
     print("\tÉ recomendado um valor menor do que 2000")
-    tamanho = int(input("Digite o tamanho da população: "))
+    try:
+       tamanho = int(input("Digite o tamanho da população: "))
+    except:
+       print("———————————————————————————————————————————————")
+       print("Tamanho inválido")
+       return;
+    
     print("———————————————————————————————————————————————")
     print("\tNessa versão de testes é recomendado uma palavra menor ou igual a 10 caracteres")
     frase = str(input("Digite a palavra para a ser descoberta: "))
