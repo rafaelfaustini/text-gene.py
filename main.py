@@ -82,6 +82,7 @@ class populacao:
             
         for i in range(0, quantidade_pop):
             self.lista[i].gene = temp[i]
+        self.geracao += 1
 
 
 def main():
@@ -92,7 +93,7 @@ def main():
     while(pop.lista[0].gene!= frase):
        pop.fitness(frase)
        pop.procriar(tamanho)
-       print(pop.lista[0].gene+" Fitness: "+str(pop.lista[0].fitness*100))
+       print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+" Fitness: "+str(pop.lista[0].fitness*100))
     
     #for elem in pop.lista:
     #    print(elem.gene)
