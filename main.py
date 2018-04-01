@@ -59,7 +59,7 @@ class populacao:
             mae = peso_aleatorio2
             if(peso_aleatorio2 <= 0):
                mae = 0  
-    def mutacao(self,dna, taxa):
+    def mutacao(self,dna, taxa): #Faz as mudanças de mutação genética
         tamanho_dna = len(dna)
         for i in range(0,tamanho_dna):
            aleatori = random.uniform(0,1)
@@ -72,7 +72,7 @@ class populacao:
         quantidade_pop = len(self.lista)
       
         for i in range(0,quantidade_pop):
-            self.selecao()
+            self.selecao() # Método que seleciona pai e mãe conforme fitness
             string = self.lista[pai].gene
             parte_pai = string[:int(len(string)/2)]
             string = self.lista[mae].gene
@@ -86,7 +86,7 @@ class populacao:
 def main():
     print("\n\tFeito por Rafael Faustini")
     print("——————————————————————————————————————————————")
-    print("Essa aplicação é sujeita a bugs, sinta-se livre a corrigi-los no git ou reporta-los")
+    print("Essa aplicação está sujeita a bugs, sinta-se livre a corrigi-los no git ou reporta-los")
     print("———————————————————————————————————————————————")
     print("\tÉ recomendado um valor menor do que 2000")
     try:
@@ -94,6 +94,7 @@ def main():
     except:
        print("———————————————————————————————————————————————")
        print("Tamanho inválido")
+       print("———————————————————————————————————————————————")
        return;
     
     print("———————————————————————————————————————————————")
