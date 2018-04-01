@@ -1,13 +1,15 @@
 import random
 import string
 
+#Variaveis Globais
 soma_pesos=0
 pai = 0
 mae = 0
 
-def gerar_frase(length):
+
+def gerar_frase(length): #Gera uma palavra aleatória e seu parametro é o tamanho
    return ''.join(random.choice(string.printable) for i in range(length))
-def similaridade(string1,string2):
+def similaridade(string1,string2): #Checa a porcentagem de similaridade entre strings
     count = 0
     for i in range(min(len(string1), len(string2))):
         if string1[i] == string2[i]:
@@ -56,10 +58,7 @@ class populacao:
             peso_aleatorio2 -= self.lista[i].fitness
             mae = peso_aleatorio2
             if(peso_aleatorio2 <= 0):
-               mae = 0
-        
-        #print("Pai"+str(pai))
-        #print("Mae"+str(mae))    
+               mae = 0  
     def mutacao(self,dna, taxa):
         tamanho_dna = len(dna)
         for i in range(0,tamanho_dna):
@@ -84,21 +83,16 @@ class populacao:
             self.lista[i].gene = temp[i]
         self.geracao += 1
 
-
 def main():
-    tamanho = int(input("Digite o tamanho da população: "))
+    tamanho = int(input("Digite o tamanho da população(Recomendado -> 100): "))
     frase = input("Digite a palavra para a ser descoberta: ")
     pop = populacao(tamanho,frase)
-
     while(pop.lista[0].gene!= frase):
        pop.fitness(frase)
        pop.procriar(tamanho)
-       print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+" Fitness: "+str(pop.lista[0].fitness*100))
-    
-    #for elem in pop.lista:
-    #    print(elem.gene)
-       #for elem in pop.lista:
-         # print("Fitness"+str(elem.fitness))        
+       print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+
+       " Fitness: "+str(pop.lista[0].fitness*100))
+          
 
     
 main()
