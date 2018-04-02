@@ -35,7 +35,7 @@ class populacao:
         global soma_pesos
         soma_pesos= 0
         for i in range(0,quantidade_pop):
-            self.lista[i].fitness = similaridade(self.lista[i].gene,frase)
+            self.lista[i].fitness = pow(similaridade(self.lista[i].gene,frase),8)
             self.lista.sort(key=lambda self: self.fitness, reverse=True)
             soma_pesos += self.lista[i].fitness
             
