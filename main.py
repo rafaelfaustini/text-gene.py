@@ -98,7 +98,6 @@ def main():
        return;
     
     print("———————————————————————————————————————————————")
-    print("\tNessa versão de testes é recomendado uma palavra menor ou igual a 10 caracteres")
     frase = str(input("Digite a palavra para a ser descoberta: "))
     pop = populacao(tamanho,frase)
     while(pop.lista[0].gene!= frase):
