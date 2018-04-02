@@ -38,27 +38,26 @@ class populacao:
             self.lista[i].fitness = similaridade(self.lista[i].gene,frase)
             self.lista.sort(key=lambda self: self.fitness, reverse=True)
             soma_pesos += self.lista[i].fitness
+            
     def selecao(self):
         global soma_pesos
-        peso_aleatorio1 = abs(int(random.uniform(1, soma_pesos)))
-        
-        peso_aleatorio2 = abs(int(random.uniform(1, soma_pesos)))
-        
         global pai,mae
+        r1 = int(random.uniform(0, soma_pesos))
+        r2 = int(random.uniform(0, soma_pesos))
         quantidade_pop = len(self.lista)
+        seen = 0
+        next = 0
         for i in range(0,quantidade_pop):
-   
-            peso_aleatorio1 -= self.lista[i].fitness
-            
-            pai = peso_aleatorio1
-            
-            if(peso_aleatorio1 <= 0):
-               pai = 0
-            
-            peso_aleatorio2 -= self.lista[i].fitness
-            mae = peso_aleatorio2
-            if(peso_aleatorio2 <= 0):
-               mae = 0  
+            next += self.lista[i].fitness
+            if(seen<r1<=seen+next):
+               pai = i
+               break
+            if(seen<r2<=seen+next):
+               mae = i
+               break
+            seen+= self.lista[i].fitness;
+
+            seen+= self.lista[i].fitness;             
     def mutacao(self,dna, taxa): #Faz as mudanças de mutação genética
         tamanho_dna = len(dna)
         for i in range(0,tamanho_dna):
@@ -82,6 +81,7 @@ class populacao:
         for i in range(0, quantidade_pop):
             self.lista[i].gene = temp[i]
         self.geracao += 1
+        soma_pesos= 0
 
 def main():
     print("\n\tFeito por Rafael Faustini")
@@ -104,6 +104,7 @@ def main():
     while(pop.lista[0].gene!= frase):
        pop.fitness(frase)
        pop.procriar(tamanho)
+       soma_pesos= 0
        print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+
        " Fitness: "+str(pop.lista[0].fitness*100))
           
