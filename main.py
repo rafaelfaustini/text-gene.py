@@ -7,7 +7,7 @@ pai = 0
 mae = 0
 taxa_mutacao = 0.05
 soma = 0
-lembranca = []
+pensamento = []
 
 
 
@@ -25,7 +25,7 @@ def similaridade(string1,string2): #Checa a porcentagem de similaridade entre st
 class elemento:
     gene = ''
     fitness= 0
-class pensamento:
+class lembranca:
     acao=0
     mediafit=0.0
     
@@ -68,23 +68,23 @@ class populacao:
             seen+= self.lista[i].fitness;
     def taxa_dinamica(self,tax):
          global soma
-         if(len(lembranca)>1 and len(lembranca)<self.geracao/100 and (self.geracao/100).is_integer() ):
-            print("Tamanho Lista "+str(len(lembranca)))
-            print("Valor Geracao -2 "+str((self.geracao/100)-2)) 
-            if lembranca[int((self.geracao/100)-3)].mediafit - lembranca[int(self.geracao/100-2)].mediafit > 0:
-                pulo = self.lista[(self.geracao/1000)-1].escolha         
-         if (self.geracao/100).is_integer() and len(lembranca)<self.geracao/100:
-             elemento_lembranca = pensamento
-             soma/= 100
-             elemento_lembranca.mediafit= soma
+         if(len(pensamento)>1 and len(pensamento)<self.geracao/1000 and (self.geracao/1000).is_integer() ):
+            print("Tamanho Lista "+str(len(pensamento)))
+            print("Valor Geracao -2 "+str((self.geracao/1000)-2)) 
+            if pensamento[int((self.geracao/1000)-3)].mediafit - pensamento[int(self.geracao/1000-2)].mediafit > 0:
+                pulo = self.lista[(self.geracao/1000)-2].escolha         
+         if (self.geracao/1000).is_integer() and len(lembranca)<self.geracao/1000:
+             elemento_pensamento = lembranca
+             soma/= 1000
+             elemento_pensamento.mediafit= soma
              soma=0
              pulo= None
              #if(len(lembranca)> 1 or pulo!= None):
              escolha = random.randint(0,2)
              if(escolha == 0 or pulo==0): # Diminuir Mutacao
-                   elemento_lembranca.acao = 0
-                   lembranca.append(elemento_lembranca)
-                   futuro = random.uniform(tax-0.04,tax)
+                   elemento_pensamento.acao = 0
+                   pensamento.append(elemento_pensamento)
+                   futuro = random.uniform(tax-(tax*0.25),tax)
                    print("Acho que precisamos diminuir a mutação")
                    file = open("mutacao.txt","a")
                    file.write("Geração:"+str(self.geracao)+"\n")
@@ -92,25 +92,25 @@ class populacao:
                    file.close()
                    return futuro
              if(escolha == 1 or pulo ==1):
-                   elemento_lembranca.acao = 1
-                   lembranca.append(elemento_lembranca)
-                   futuro= random.uniform(tax,tax+0.08)
+                   elemento_pensamento.acao = 1
+                   pensamento.append(elemento_lembranca)
+                   futuro= random.uniform(tax,tax+(tax*0.25))
                    print("Acho que precisamos aumentar a mutação")
                    file = open("mutacao.txt","a")
                    file.write("Geração:"+str(self.geracao)+"\n")
                    file.write("Mutacao:"+str(futuro)+"\n\n")
                    file.close()
-                   return random.uniform(tax,tax+0.08)
+                   return futuro
              if(escolha == 2 or pulo ==2):
-                   elemento_lembranca.acao = 2
-                   lembranca.append(elemento_lembranca)
+                   elemento_pensamento.acao = 2
+                   pensamento.append(elemento_lembranca)
                    futuro= tax
                    print("A mutação tá boa assim")
                    file = open("mutacao.txt","a")
                    file.write("Geração:"+str(self.geracao)+"\n")
                    file.write("Mutacao:"+str(futuro)+"\n\n")
                    file.close()
-                   return tax
+                   return futuro
          soma += self.lista[0].fitness
          return tax
     def mutacao(self,dna, taxa): #Faz as mudanças de mutação genética
