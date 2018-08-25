@@ -1,5 +1,6 @@
 import random
 import string
+import math
 
 #Variaveis Globais
 soma_pesos=0
@@ -8,7 +9,13 @@ mae = 0
 
 
 def gerar_frase(length): #Gera uma palavra aleatória e seu parametro é o tamanho
-   return ''.join(random.choice(string.printable) for i in range(length))
+   c = math.floor(random.randrange(63,122))
+   if (c== 63):
+      c=32
+   if (c== 64):
+      c=46
+   return ''.join(chr(c) for i in range(length))
+
 def similaridade(string1,string2): #Checa a porcentagem de similaridade entre strings
     count = 0
     for i in range(min(len(string1), len(string2))):
@@ -35,7 +42,8 @@ class populacao:
         global soma_pesos
         soma_pesos= 0
         for i in range(0,quantidade_pop):
-            self.lista[i].fitness = pow(similaridade(self.lista[i].gene,frase),8)
+            ft = pow(similaridade(self.lista[i].gene,frase),4)
+            self.lista[i].fitness = ft
             self.lista.sort(key=lambda self: self.fitness, reverse=True)
             soma_pesos += self.lista[i].fitness
             
@@ -76,7 +84,7 @@ class populacao:
             parte_pai = string[:int(len(string)/2)]
             string = self.lista[mae].gene
             parte_mae = string[int(len(string)/2):]
-            temp.append(self.mutacao(parte_pai+parte_mae, 0.01))
+            temp.append(self.mutacao(parte_pai+parte_mae, 0.2))
             
         for i in range(0, quantidade_pop):
             self.lista[i].gene = temp[i]
@@ -88,9 +96,8 @@ def main():
     print("——————————————————————————————————————————————")
     print("Essa aplicação está sujeita a bugs, sinta-se livre a corrigi-los no git ou reporta-los")
     print("———————————————————————————————————————————————")
-    print("\tÉ recomendado um valor menor do que 2000")
     try:
-       tamanho = int(input("Digite o tamanho da população: "))
+       tamanho = 500
     except:
        print("———————————————————————————————————————————————")
        print("Tamanho inválido")
@@ -105,7 +112,8 @@ def main():
        pop.procriar(tamanho)
        soma_pesos= 0
        print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+
-       " Fitness: "+str(pop.lista[0].fitness*100))
+       " Fitness: "+str(pop.lista[0].fitness*100)+"%")
+       print(pop.lista[0].gene+" "+pop.lista[1].gene+" "+pop.lista[2].gene)
           
 
     
