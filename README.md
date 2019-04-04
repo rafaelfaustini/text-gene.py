@@ -1,7 +1,11 @@
 # text-gene.py
 Código que usa principios da programação genética para advinhar o texto que você digitou em Python
 
-## Use
-python textgene.py "Text" 1000 
+## How to Use
+```git clone https://github.com/rafaelfaustini/text-gene.py.git``` 
 
-The arguments are the text to be discovered and population size
+```python textgene.py <text> <population>``` 
+
+< text >: The text that will be discovered by the algorithm
+
+< population >: The size of the population, it's an integer number
