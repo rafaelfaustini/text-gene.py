@@ -3,7 +3,7 @@ import string
 import math
 import sys
 
-#Variaveis Globais
+#Variaveis Globais a
 pai = 0
 mae = 0
 
