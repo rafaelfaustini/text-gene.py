@@ -110,8 +110,7 @@ def main():
           return
       pop.fitness(frase)
       pop.procriar(tamanho)
-      print("Geração "+str(pop.geracao)+": "+pop.lista[0].gene+
-      " Fitness: "+str(pop.lista[0].fitness*100)+"%")
+      print("Geração {}: {} Fitness: {}%".format(pop.geracao, pop.lista[0].gene, pop.lista[0].fitness*100))
       print(pop.lista[0].gene+" "+pop.lista[1].gene+" "+pop.lista[2].gene)
 
           
