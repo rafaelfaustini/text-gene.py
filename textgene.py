@@ -3,11 +3,6 @@ import string
 import math
 import sys
 
-#Variaveis Globais a
-pai = 0
-mae = 0
-
-
 def gerar_frase(length): #Gera uma palavra aleatória e seu parametro é o tamanho
    c = math.floor(random.randrange(63,122))
    if (c== 63):
@@ -33,6 +28,9 @@ class populacao:
     lista = []
     geracao = 0
     soma_pesos=0
+    pai = 0
+    mae = 0
+    
     def __init__(self, length, frase): # Cria a população Inicial
         frase_len = len(frase)
         self.geracao += 1
@@ -50,7 +48,6 @@ class populacao:
             self.soma_pesos += self.lista[i].fitness
             
     def selecao(self):
-        global pai,mae
         r1 = int(random.uniform(0, self.soma_pesos))
         r2 = int(random.uniform(0, self.soma_pesos))
         quantidade_pop = len(self.lista)
@@ -59,10 +56,10 @@ class populacao:
         for i in range(0,quantidade_pop):
             next += self.lista[i].fitness
             if(seen<r1<=seen+next):
-               pai = i
+               self.pai = i
                break
             if(seen<r2<=seen+next):
-               mae = i
+               self.mae = i
                break
             seen+= self.lista[i].fitness;
 
@@ -75,15 +72,14 @@ class populacao:
                dna = dna[:i] + gerar_frase(1) + dna[i + 1:]
         return dna
     def procriar(self,tamanho):
-        global pai,mae
         temp = []
         quantidade_pop = len(self.lista)
       
         for i in range(0,quantidade_pop):
             self.selecao() # Método que seleciona pai e mãe conforme fitness
-            string = self.lista[pai].gene
+            string = self.lista[self.pai].gene
             parte_pai = string[:int(len(string)/2)]
-            string = self.lista[mae].gene
+            string = self.lista[self.mae].gene
             parte_mae = string[int(len(string)/2):]
             temp.append(self.mutacao(parte_pai+parte_mae, 0.2))
             
@@ -106,7 +102,7 @@ def main():
     pop = populacao(tamanho,frase)
     while(pop.lista[0].gene!= frase):
       if(pop.lista[0].fitness*100 == 100):
-          print("MAIOR: "+pop.lista[0].gene)
+          print("MAIOR: {}".format(pop.lista[0].gene))
           return
       pop.fitness(frase)
       pop.procriar(tamanho)
