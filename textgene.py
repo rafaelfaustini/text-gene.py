@@ -42,7 +42,7 @@ class populacao:
         quantidade_pop = len(self.lista)
         self.soma_pesos= 0
         for i in range(0,quantidade_pop):
-            ft = pow(similaridade(self.lista[i].gene,frase),4)
+            ft = pow(similaridade(self.lista[i].gene,frase),2)
             self.lista[i].fitness = ft
             self.lista.sort(key=lambda self: self.fitness, reverse=True)
             self.soma_pesos += self.lista[i].fitness
@@ -100,14 +100,20 @@ def main():
     print("———————————————————————————————————————————————")
     frase = str(sys.argv[1])
     pop = populacao(tamanho,frase)
-    while(pop.lista[0].gene!= frase):
-      if(pop.lista[0].fitness*100 == 100):
+    
+    while(True):
+      topo = pop.lista[0]
+      if(topo.fitness*100 == 100):
           print("MAIOR: {}".format(pop.lista[0].gene))
           return
+         
+      print("Geração {}: {} Fitness: {}%".format(pop.geracao, topo.gene, topo.fitness*100))
+      print(topo.gene+" "+pop.lista[1].gene+" "+pop.lista[2].gene)
+
+      if(topo.gene== frase):
+         break
       pop.fitness(frase)
       pop.procriar(tamanho)
-      print("Geração {}: {} Fitness: {}%".format(pop.geracao, pop.lista[0].gene, pop.lista[0].fitness*100))
-      print(pop.lista[0].gene+" "+pop.lista[1].gene+" "+pop.lista[2].gene)
 
           
 
