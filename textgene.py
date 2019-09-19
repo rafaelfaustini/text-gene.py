@@ -1,123 +1,159 @@
-import random
-import string
-import math
-import sys
+import string,random,sys,time
+from datetime import datetime
 
-def gerar_frase(length): #Gera uma palavra aleatória e seu parametro é o tamanho
-   c = math.floor(random.randrange(63,122))
-   if (c== 63):
-      c=32
-   if (c== 64):
-      c=46
-   return ''.join(chr(c) for i in range(length))
+class Elemento:
+   gene = ""
+   fitness = 0
 
-def similaridade(string1,string2): #Checa a porcentagem de similaridade entre strings
-    count = 0
-    tamanho = len(string2)
-    
-    for i in range(0, tamanho):
-        if ord(string1[i]) == ord(string2[i]):
-            count = count + 1
-    return count/tamanho
+   def __init__(self, gene):
+      self.gene = gene
 
-class elemento:
-    gene = ''
-    fitness= 0
+   def calcularFitness(self,objetivo):
+      count = 0
+      i=0
+      for a in self.gene:
+         try:
+            if a == objetivo[i]:
+               count+=1
+            i+=1
+         except:      
+            continue
+      score = count/float(i)
+      self.fitness = (score**2)*100
 
-class populacao:
-    lista = []
-    geracao = 0
-    soma_pesos=0
-    pai = 0
-    mae = 0
-    
-    def __init__(self, length, frase): # Cria a população Inicial
-        frase_len = len(frase)
-        self.geracao += 1
-        for i in range(0,length):
-            el = elemento()
-            el.gene = gerar_frase(frase_len)
-            self.lista.append(el)
-    def fitness(self,frase): # Calcula o fitness
-        quantidade_pop = len(self.lista)
-        self.soma_pesos= 0
-        for i in range(0,quantidade_pop):
-            ft = pow(similaridade(self.lista[i].gene,frase),2)
-            self.lista[i].fitness = ft
-            self.lista.sort(key=lambda self: self.fitness, reverse=True)
-            self.soma_pesos += self.lista[i].fitness
-            
-    def selecao(self):
-        r1 = int(random.uniform(0, self.soma_pesos))
-        r2 = int(random.uniform(0, self.soma_pesos))
-        quantidade_pop = len(self.lista)
-        seen = 0
-        next = 0
-        for i in range(0,quantidade_pop):
-            next += self.lista[i].fitness
-            if(seen<r1<=seen+next):
-               self.pai = i
-               break
-            if(seen<r2<=seen+next):
-               self.mae = i
-               break
-            seen+= self.lista[i].fitness;
+class Populacao:
+   inicio = time.time()
+   lista = []
+   objetivo = ""
+   tamanho = 0
+   geracao=0
+   fim = False
+   taxa = 0.1
 
-            seen+= self.lista[i].fitness;             
-    def mutacao(self,dna, taxa): #Faz as mudanças de mutação genética
-        tamanho_dna = len(dna)
-        for i in range(0,tamanho_dna):
-           aleatori = random.uniform(0,1)
-           if(aleatori < taxa):
-               dna = dna[:i] + gerar_frase(1) + dna[i + 1:]
-        return dna
-    def procriar(self,tamanho):
-        temp = []
-        quantidade_pop = len(self.lista)
+   def randomString(self, n):
+      letters = string.printable
+      return ''.join(random.choice(letters) for i in range(n))          
+
+   def __init__(self,objetivo, tamanho):
+      self.objetivo = objetivo
+      self.tamanho = tamanho
+      for i in range(0,tamanho):
+         try:
+            gene = self.randomString(len(self.objetivo))
+            elemento = Elemento(gene)
+            elemento.calcularFitness(self.objetivo)
+            self.lista.append(elemento)
+
+         except Exception as error:
+            print('Caught this error: ' + repr(error))
+      self.ordenar()
+
+   def mutacao(self,elemento):
+      i=0
+      novo = ""
+      for n in elemento:
+         aux = random.random()
+         try:
+            if(aux < self.taxa):
+               novo+= self.randomString(1)
+            else:
+               novo += elemento[i]   
+         except Exception as error:
+               print('Caught this error: ' + repr(error))
+         i= i+1
+      return novo         
       
-        for i in range(0,quantidade_pop):
-            self.selecao() # Método que seleciona pai e mãe conforme fitness
-            string = self.lista[self.pai].gene
-            parte_pai = string[:int(len(string)/2)]
-            string = self.lista[self.mae].gene
-            parte_mae = string[int(len(string)/2):]
-            temp.append(self.mutacao(parte_pai+parte_mae, 0.2))
-            
-        for i in range(0, quantidade_pop):
-            self.lista[i].gene = temp[i]
-        self.geracao += 1
-        self.soma_pesos= 0
+      
 
-def main():
-
-    try:
-       tamanho = int(sys.argv[2])
-    except:
-       print("———————————————————————————————————————————————")
-       print("Tamanho inválido")
-       print("———————————————————————————————————————————————")
-       return;
-    print("———————————————————————————————————————————————")
-    frase = str(sys.argv[1])
-    pop = populacao(tamanho,frase)
-    
-    while(True):
-      topo = pop.lista[0]
-      if(topo.fitness*100 == 100):
-          print("MAIOR: {}".format(pop.lista[0].gene))
-          return
+   def procriar(self,pai,mae):
+      
+      tamanho = len(pai)
+      try:
+         if tamanho%2 == 0:
+            marcador = tamanho/2
+         else:
+            marcador = (tamanho/2)+1
+         marcador = int(marcador)
+         gene = self.mutacao(pai[:marcador]) + self.mutacao(mae[marcador:])
+         filho = Elemento(gene)
+         filho.calcularFitness(self.objetivo)
+         return filho
+      except Exception as error:
+         print('Caught this error: ' + repr(error))
          
-      print("Geração {}: {} Fitness: {}%".format(pop.geracao, topo.gene, topo.fitness*100))
-      print(topo.gene+" "+pop.lista[1].gene+" "+pop.lista[2].gene)
+         
 
-      if(topo.gene== frase):
-         break
-      pop.fitness(frase)
-      pop.procriar(tamanho)
+   def selecionar(self):
+      tamanho = len(self.lista)
+      pivo = round((tamanho-1)*0.2)
+      
+      selecionados= self.lista[:(tamanho-pivo)]
+      i=0
 
-          
+      novo = []
+      aux=0
+      for n in selecionados:
+         try:
+            if i%2 == 1: 
+               novo.append(self.procriar(n.gene,selecionados[aux].gene))
+               novo.append(self.procriar(selecionados[aux].gene, n.gene))
+               if pivo > 0:
+                  novo.append(self.procriar(selecionados[aux].gene,n.gene))
+                  pivo -= 1
+               aux+=1
+            i+=1
+            self.lista = novo
+         except Exception as error:
+            print('Caught this error: '+ repr(error))
 
-    
-main()
-   
-    
+   def parar(self):
+      self.fim = True
+
+   def printLista(self,lista):
+      texto = ""
+      for i in lista:
+         texto+= i.gene+","
+      return texto
+
+   def ciclo(self):
+      while self.fim == False:
+         try: 
+            self.ordenar()
+            self.selecionar()
+            self.geracao += 1
+            if self.lista[0].fitness == 100:
+               self.parar()
+         except Exception as error:
+            print('Caught this error: ' + repr(error))
+      try:
+         f=open("log.txt", "a+")
+         agora = datetime.now()
+         f.write("\n\nTempo de Execução: "+str(time.time() - self.inicio)+" segundos")
+         f.write("\n"+agora.strftime('%d/%m/%Y %H:%M'))
+         f.write("\nObjetivo: "+self.objetivo+"\n")
+         f.write("Geracoes: "+str(self.geracao)+"\n")
+         f.write("Resultado: "+self.lista[0].gene+"\n")
+         f.write("\nPopulacao Final: \n\n"+self.printLista(self.lista)+"\n\n")
+         f.close()
+         print("Relatorio Gerado com sucesso")
+      except Exception as error:
+         print("Houve um erro ao gerar o relatório")
+         print('Caught this error: ' + repr(error))    
+   def iniciar(self):
+      self.fim=False
+      self.ciclo()
+
+   def ordenar(self):
+      self.lista.sort(key=lambda x: x.fitness, reverse=True)
+
+
+try:
+   tamanho = int(sys.argv[2])
+   frase = sys.argv[1]
+except:
+   print("———————————————————————————————————————————————")
+   print("\tArgumentos inválidos")
+   print("———————————————————————————————————————————————")
+   sys.exit("Argumentos inválidos")
+p = Populacao(frase, tamanho)
+p.iniciar()
