@@ -1,0 +1,1298 @@
+
+Geracao: 1 Maior Fitness: 0.221453 | Gene: FV6vS	RM4rM` Y}"
+r*+h-O@4s&O1eaV
+~UUg=k(/ZcnLxleRpfc%Aa.;5#7yerkr1u3+@Au7T_kCVO]%#wl 
+
+Geracao: 2 Maior Fitness: 0.498270 | Gene: 1&s{L]s>GH-bds#yH[_<2V	H%:qtqyOn+r%6'a(gM1^Z33xkPa)mD<
+#d |syO2{oz2M#
+_D#6ks$c<rG 
+
+Geracao: 3 Maior Fitness: 0.498270 | Gene: !&s{L]s>GH-bds#yH[_<2V	H%:qtqyOn+r%6'<(gM1^Z33xkPa)mD<
+#d |syO2{oz2M#
+_D#6ks$c<rG 
+
+Geracao: 4 Maior Fitness: 0.498270 | Gene: 1&s{L]s>GH-bds#yH[_<2V	H%:qtqyOn+r%6'a(gM1^Z33xkPa)mD<
+#d |syO2{oz2M#
+_D#6ks$c<rG 
+
+Geracao: 5 Maior Fitness: 0.678201 | Gene: JQ`>kAe/m,{} 'Jybt;?hb
+x6^z~*OH(d~b_^G}]"1^Z3pGkPa)mD<
+#d |syO2{oz2M#
+_D#6ks$c<rG 
+
+Geracao: 6 Maior Fitness: 0.498270 | Gene: JQ`>kAT/m,{} 'Jybt;?h8
+x6^z~*OH(d~b_^G}]"1^Z3pGkPa)mD<
+#d |syO2{oz2M#
+_D#6ks$c<rG 
+
+Geracao: 7 Maior Fitness: 0.678201 | Gene: JQ`>kAe/m,;} 'Jybt;?hb
+x6^z~*OH(d~b_^G}]"1^Z33xkPra)mD<
+#d |syO2{oz2?#
+_D#6ks$c<rG 
+
+Geracao: 8 Maior Fitness: 0.885813 | Gene: u-yzNb{cku+O9/q~hS^Ju7TdvM#+_[<iatE\]OywvS#BvS0P# am3>x !O(j;CsCVm1Y8J"vg!HY6qsyN_n 
+
+Geracao: 9 Maior Fitness: 1.384083 | Gene: u-yzNb{cku+O9/q~hS^Ju7TdvM#+_[<+atE\]OylvS#7vq0$# am3>a _O(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 10 Maior Fitness: 1.384083 | Gene: u-yzNb{cku+O9/q~hS^Ju7TdvM#+_[<iatE\]OylvS#7vq0$# am3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 11 Maior Fitness: 1.384083 | Gene: u-yzNb{cku+O9/q~hS^Ju7SdvM#+_[<+atE\]OylvS#7vq0$# am3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 12 Maior Fitness: 1.384083 | Gene: u-yzNb{cku+O9/q~hS^Ju7TdvM#+_N[<iatE\]OylvS#Hvq0$# a=3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 13 Maior Fitness: 1.384083 | Gene: u-yzNb{cku+O9/q~hS^Ju7Sd>M#+_[<+atE\]OylvS#Hvq0$# a=3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 14 Maior Fitness: 1.384083 | Gene: u-_zNb{cku+O9/q~hS^Ju7TdvM#+_[<iatE\]OylvS#Hvq0$# a=3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 15 Maior Fitness: 1.384083 | Gene: u-yzNb{c%u+O9/q~hS^Ju7Sd>MG+_[<+atE\]OylvS#Hvq0$# a=3$a _u(Y;Cs8VtsY8n"|g!HY6qsyN;n 
+
+Geracao: 16 Maior Fitness: 1.674740 | Gene: JQ`>~Ae@m,{} 'Sybt;?h8
+x6^z~*O-(d~b_^G}]ou"#]vq0$# Qm3>' _O(Y;Cs8Vtsb8J"|g!sYyqsyN;n 
+
+Geracao: 17 Maior Fitness: 1.674740 | Gene: JQ`>~Ae@m,{} 'Jybt;thE
+x6^z~*O-(d~b4^G}]o #]vq0$n am3>a _O(Y;CsLVtsY8J"|*!HY6ssyNBn 
+
+Geracao: 18 Maior Fitness: 2.339100 | Gene: JQ`>~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG}]ou"#]aq0$# am3>' _O(Y;Cs8Vtsb8A"|g!sYyqsyK;n 
+
+Geracao: 19 Maior Fitness: 2.339100 | Gene: JQ`>~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG}]ou"#]aq0$# am3>' _O(Y;Cs8Vtsb8A"|g!sYyqsyK;n 
+
+Geracao: 20 Maior Fitness: 2.339100 | Gene: JQ`>~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG}]ou"#]aq0$# am3>' _O(Y;Cs8Vtsb8A"|g!sYyqsyK;n 
+
+Geracao: 21 Maior Fitness: 2.712803 | Gene: JQ`>~Ae@m,{} 'Jybt;?h8
+x6^z|O-(d~b_aG}]ou"#]aE0$# am3>' _O(Y;Cs8Vtsb8A"|g%sYyqsy.;s 
+
+Geracao: 22 Maior Fitness: 2.712803 | Gene: JQ`>~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG9]ou"#]aE0$# am3>' _O(Y;Cs8Vtsb8A"|g%sYyqsy.;s 
+
+Geracao: 23 Maior Fitness: 3.114187 | Gene: JQ`t~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG}=ou"#]aE0$# am3>' _O(Y;Cs8Vtsb8A"|g%sYyqsy.;s 
+
+Geracao: 24 Maior Fitness: 3.114187 | Gene: J`t~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_aG}=ou{#]aE0$# am3>' _O(Y;Cs8Vtsb8A"|g%sYyqsy.;s 
+
+Geracao: 25 Maior Fitness: 2.712803 | Gene: JQ`t~Ae@m,{} 'Jybt;?h8Qx6^z*O-(d~b_aG}=ou"#]aE0G# am3>' _O(Y;Cs8Vtsb8A"|g%AYyqsy.;s 
+
+Geracao: 26 Maior Fitness: 2.712803 | Gene: J`t~Ae@m,{} 'Jybt;?h8
+x6^z*O-(d~b_<G}=ou{#]vqhn# am3>' _o`Y;Ls8Vtso8j"|$!H 6qsyN;s 
+
+Geracao: 27 Maior Fitness: 3.114187 | Gene: JQ`t~Ae@m,{} 'Jwbt;?h8
+x6^z*O-(d~b_aG}=ou"#]vqhn# amA>' _o`Y;Ls8Vtso8J"|$!H 6qsyN;s 
+
+Geracao: 28 Maior Fitness: 3.543253 | Gene: JQ`t~Ae@a,{} 'Jybt;?h8
+x6^z*O-(d~b1aG}=ou"#]vq0$0 em3>o zO(d;Cs8Vtsb8J"Gg!sY:qsyN;n 
+
+Geracao: 29 Maior Fitness: 3.543253 | Gene: JQ`t~Ae@a,{} 'Jybt;?h8
+x6^z*Td(d~b1aGw=ou"#]vq0$0 em3>o zO(d;Cs8Vtsb8J"Gg!sY:qsyN;n 
+
+Geracao: 30 Maior Fitness: 4.000000 | Gene: JQ`t/Ae@a,{} 'Jybt;?h8
+x6^z*O-(d~b1aGw=ou"#]vqhn# amK>' _o`Y;Ns8Vtso8J"|$!H 6qeyN|s 
+
+Geracao: 31 Maior Fitness: 4.000000 | Gene: JQ`t~Ae@a,{} 'Jybt;?h8
+x6^z*O-(d~b1aGw=ou"#]vqhn# amK>' _o`Y;Ns8Vtso8J"|$!H 6qeyN1s 
+
+Geracao: 32 Maior Fitness: 4.000000 | Gene: JQ`t/Ae@a,{} 'Jybt;?h8
+x6^z*O-(d~b1aGw=ou"#]vqhn# amK>' _o`Y;Ns8Vtso8J"|$^H 6qeyN1s 
+
+Geracao: 33 Maior Fitness: 4.000000 | Gene: JQ`t/Ae@a,{} 'Jybt;?h8
+x6^z*OB(d~b1aGw=ou"#Tvqhe# am3>' _o(Y;%s8VtVo8Jt|$!H 6qsyN;s 
+
+Geracao: 34 Maior Fitness: 4.484429 | Gene: Ju`t
+Ae@m,c} 'JAbt;3ho
+x6{z':-(d~b_aG=]ou"#]vqhn# amK>' _o`Y;Ns8Vtso8J"|$^H 6qeyN1s 
+
+Geracao: 35 Maior Fitness: 4.484429 | Gene: Ju`t
+Ae@mcc} 'JAbt;3ho
+x6{z':-(d~b_aG=]ou"#]vqhn# amK>' _o`Y;Ns8Vtso8J"|$^H 6qeyN1s 
+
+Geracao: 36 Maior Fitness: 4.996540 | Gene: J-stNb{cku+O9	q~eX^Du7Fd Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8Vtso8J"f$!H 6qeyN;s 
+
+Geracao: 37 Maior Fitness: 4.996540 | Gene: J-stNb{cku+O9	q~eX^Du7
+d Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8Vtso8J"f$!H 6qeyN;s 
+
+Geracao: 38 Maior Fitness: 4.996540 | Gene: J-stNb{cku+O9	q~eX^Du7Fd Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8VtsoHJ"f$!H 6qeyN;s 
+
+Geracao: 39 Maior Fitness: 4.996540 | Gene: J-stNb{cku+O9	q~eX^Du7Fd Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8Vtso8J"f$!H 6qeyN;s 
+
+Geracao: 40 Maior Fitness: 5.536332 | Gene: J-stNb{cku+O 	q~el^Ju7rd Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8VtsoHJ"f$!H 6qeyN;s 
+
+Geracao: 41 Maior Fitness: 5.536332 | Gene: J-stNb{cku+O 	q~el^Ju7rd Zj+[<~awE\]JylvS#]5qhn# am >' _o`Y;Ns8VtsoHJ"f$!H 6qey^;s 
+
+Geracao: 42 Maior Fitness: 5.536332 | Gene: J-stNb{cku+O 	q~
+l^Ju7rd Zj+[<~awE\]JylvS#]5qh4# am >' _o`Y;Ns8Vtso8J"ft!H 6qeyN;s 
+
+Geracao: 43 Maior Fitness: 6.698962 | Gene: J-stHb{cku+O9	o~eX^Ju7Fd Zj<[t<~awD\]oylvS>]~qh4# am >' _o`Y;Ns8VtsoLJvft!H 6qeyN;s 
+
+Geracao: 44 Maior Fitness: 6.698962 | Gene: J-stNb{cku+O9	o~eX^Ju7Fd Zj<[t<~awE\]oylv>]~qh4# am >' _o`Y;Ns8VtsoLJvft!H 6qeyN;s 
+
+Geracao: 45 Maior Fitness: 6.103806 | Gene: J-stNb{cku+O9	o~eX^Gu7Fd Zj<[t<~awE\]oylvA>]~qh4# am >' _o`Y;Ns8VtsoLJvft!HS6qeyN;s 
+
+Geracao: 46 Maior Fitness: 6.103806 | Gene: J-stNb{cku+O 	q~eX^Ju7rd Zs+[c<X&]E\]JylvS#]3qh4# am >' _o`Y;Ns8Vtso8J"ft!H 6qeyN;s 
+
+Geracao: 47 Maior Fitness: 6.698962 | Gene: J-stNb{cku+O9	o~eX^Gu7Fd Zj<[t<~awE\]oylvS#]3qh4# aS >' _o`Y;Ns8Vtso8J"ft!H 6qeyN;s 
+
+Geracao: 48 Maior Fitness: 7.321799 | Gene: J-stNb{cku+O9	o~eX^Gu7Fd Zj<[t<~awE\]oylvA=]vqhn# am3>' _o Y;bs8Vtso8; i$!H 2qeyN|s 
+
+Geracao: 49 Maior Fitness: 7.321799 | Gene: J-stNb{cku+O9	o~eX1Ju7Fd ZL<[t<~awE\]oylvS=]vqhn# am3>' _o Y;bs8Vtso8; i$!H 2qeyN|s 
+
+Geracao: 50 Maior Fitness: 7.321799 | Gene: J-stNb{cku+O9	o~eX1Ju7Fd ZL<[t<~awE\]oylvS#]%qnn# !m >' _o`Y;NsnVtsoHJyf$!H 6qeyN;s 
+
+Geracao: 51 Maior Fitness: 7.972318 | Gene: J-stNb{ckusx 	q~eX^Ju7Gd Zs+[	<X&wE\]JylvS=]vqhn# am3>' _o Y;bs8Vtso8; i$!H 2qeyN|s 
+
+Geracao: 52 Maior Fitness: 7.972318 | Gene: J-stNb{ckusx 	q~eX^Ju7Gd zs+[	<X&wE\]JylvS=]vqhn# am3>' _o Y;bs8Vtso8; i$!H 2qeyN|s 
+
+Geracao: 53 Maior Fitness: 8.650519 | Gene: Ju`t
+Ae@mT1} sJAet;3ho
+x6{z'i =d~N_aG=]ou"#]%qnn# !m >' _o`Y;NsnVts:HJ"f$!s 6qeyN;s 
+
+Geracao: 54 Maior Fitness: 8.650519 | Gene: Ju`t
+Ae@mc1Y sJAet;3ho
+x6{z': (d~N_a=]ou"#]%qnn# !m >' _o`Y;NsnVts:HJ"f$!s 6qeyN;s 
+
+Geracao: 55 Maior Fitness: 8.650519 | Gene: Ju`t
+Ae@mT1} sJAet;3ho
+x6{z'i =d~N_aG=]ou"#]%1nn# !m >W _o`Y;NsnVts:HJ"f$!s 6qeyN;s 
+
+Geracao: 56 Maior Fitness: 7.972318 | Gene: Ju`Q
+Ae@mc1Y sJAet;3ho
+x6{z': (d~N_a=]ou"#]%1nn# !m >W no`Y;NsnVts:HJ"f$!s 6qeyN;s 
+
+Geracao: 57 Maior Fitness: 8.650519 | Gene: Ju`t
+Ae@Vc1Y sJAet;3ho
+x6{z': (d~N_a=]ou"#]%qnn# !m >' _o`Y;NsnVts:HJ"f$!s 6qeyN;s 
+
+Geracao: 58 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': Ld~N_aG=]ou"#]%qnn# !m >' _o`Y;NsnVtl:FJ"f$!s 6qeyN;s 
+
+Geracao: 59 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc1} sJAet;3no
+x6{z': (d~NTaG=4ou"#]%qnn# !m >' _o`Y;NsnVtl:FJ"f$!s 6qeyN;s 
+
+Geracao: 60 Maior Fitness: 8.650519 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': Ld~N_an=]ou"#]%qnn# !m >' _o`Y;NsnVtl:FJ"f$!s 6qeyN;g 
+
+Geracao: 61 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc1} sJAet;3no
+x6{z': (d~NTaG=4ou"#]%qnn# `m >' _o`Y;esnVts:HJ"f$!s}6qeyN;s 
+
+Geracao: 62 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc1} sJAet;3no
+x6{z': (d~NTaG=4ou"#]%qnn6 !A Z' _o=YoNsn~bs:HJ"f$!s 6qeyH;s 
+
+Geracao: 63 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc1} sJAet;3no
+x6{z': ({~NTaG=4ou"#]%qnn# `m >' _o`Y;esnVts:HJ"f$!s}6qeyN;s 
+
+Geracao: 64 Maior Fitness: 10.089965 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou #]%qnn6 !A Z' _o=YoNsn~bs:HJ"f$!s 6qeyH;s 
+
+Geracao: 65 Maior Fitness: 10.851211 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou k]%qnn( !m >3 )o`Y;NsnVtl:FJ";$!s uqeyN;s 
+
+Geracao: 66 Maior Fitness: 10.851211 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou k]%qnn( !m >3 )o`Y;NsnVtl:FJ";$!s uqeyN;s 
+
+Geracao: 67 Maior Fitness: 10.851211 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou k]%qnn( !m >3 )o`Y;NsnVtl:FJ";$Ls uqeyN;s 
+
+Geracao: 68 Maior Fitness: 10.089965 | Gene: Ju`!
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou k]%qnn( !m >3 )o`Y;NsnVtl:FJ";$Ls uqeyN;s 
+
+Geracao: 69 Maior Fitness: 10.851211 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z': (d~N_aG=]ou k]%qnn( !m >3 _oiY;NsnVt>l:FJ";$!s uqe+N;s 
+
+Geracao: 70 Maior Fitness: 9.356401 | Gene: Ju`t
+Ae@mc~}SsJAetT3hg
+x6{z\: (d~N_aG=]ou k]%qnn( !m >3 _oiY;NsnVt>l:FJ";$!s uqe+N;s 
+
+Geracao: 71 Maior Fitness: 10.851211 | Gene: Ju`t
+Ae@mc~} sJAetT3hg
+x6{z':3(d~l_aG=]ou k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!s uqelN;s 
+
+Geracao: 72 Maior Fitness: 11.640138 | Gene: Ju-t
+Ae@a"1} sKAet;ihF
+x6{z'` (d~NhaG=]ou"#]qqnn# `m >' ,o#Y;NsnVt s}HJ"f$!s 6qeyN;s 
+
+Geracao: 73 Maior Fitness: 12.456747 | Gene: Ju-t
+Ae@a"1} sKAet;ihF
+x6{z'` (d~NhaG=]ou"k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!s uqelN;s 
+
+Geracao: 74 Maior Fitness: 12.456747 | Gene: Ju`t
+Ae@mc~} sJAetT3hg x6{z': (d~N_aU=]ou k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!s uqelN;s 
+
+Geracao: 75 Maior Fitness: 12.456747 | Gene: Ju-t
+Ae@a"1} sKAet;ihF
+x6{z'` (d~NhaG=]ou"k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!s uqelN;s 
+
+Geracao: 76 Maior Fitness: 11.640138 | Gene: Ju`t
+Ae@mc~} sJAetT3hg x6{z': (d~N_aU=]ou k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!g uqelN;s 
+
+Geracao: 77 Maior Fitness: 12.456747 | Gene: Ju`t
+Ae9mc~} sJAetT3hg
+d6{zh': (d~N_aG=]ou k]%qnn( !M >3 _oLY;NsnVt^l:FJ";$!s uqelN;s 
+
+Geracao: 78 Maior Fitness: 13.301038 | Gene: Ju`t
+Ae9mc~} sJAetT3hg
+d6{zh': (d~N_aG=]ou k]%qnn( !M ># _oLY;NsnVt^leFJ";$ s uqelN;s 
+
+Geracao: 79 Maior Fitness: 13.301038 | Gene: Ju`t
+Ae@mc~} sJAetT3hg x6{z': (d N_aU=]ou k]%qnn( !M ># _oLY;nsnVt^leFJ";$ sTuqelN;s 
+
+Geracao: 80 Maior Fitness: 13.301038 | Gene: Ju`t
+Ae@mc~} sJAetT3hg x6{z': (d N_aU=]ou k/%qnn( !m >3 ao`Y;NynVt m:FK";$Gs uVeyN;s 
+
+Geracao: 81 Maior Fitness: 14.173010 | Gene: Ju`t
+Ae@3c~} sJAetT3hg x6{z': (d N_aU=]ou kg%qnn( !m >3 aonY;NsnVt m:FK";$Gs uVeyN;s 
+
+Geracao: 82 Maior Fitness: 15.072664 | Gene: Ju`t
+Ae@3c~} sJAetT3hg x6{z': (d N_aU=]ou k/%qnn( !m >3 do`Y;NsnVt m:FK";$Gs uVeyp;s 
+
+Geracao: 83 Maior Fitness: 15.072664 | Gene: Ju`t
+Ae@mc~= sometT3ng
+C6{A': 7(~N_a?=zou"k/%qnn( !m >3 do`Y;NsnVt m:FK";$Gs uVeyp;s 
+
+Geracao: 84 Maior Fitness: 15.072664 | Gene: Ju`t
+Ae@3c~} sJAetT3hg x6{z': (d N_aU=]ou k/%qnn( !m >3 do`Y;NsnVt m:kK";$Gs uVeyp;s 
+
+Geracao: 85 Maior Fitness: 16.000000 | Gene: Ju-t
+Je@a"k} sKAet>ihF'x6{z'` td~whaGfyou"k/%qnn( !m >3 do`Y;NsnVt m:kK";$Gs uVeyp;s 
+
+Geracao: 86 Maior Fitness: 16.000000 | Gene: Ju-t
+Je@a"kY sKAetIihF'x6{z'` td~whaGfyou"k/%qnn( !m >3 do`Y;NsnVt m:kK";$Gs uVeyp;s 
+
+Geracao: 87 Maior Fitness: 16.000000 | Gene: Ju-t
+Je@a"k} sKAet3iHF'x6{z'` td~whaGfyou"k/%qnn( !m >3 do`Y;NsnVt m:kK";$Gs uVeyp;s 
+
+Geracao: 88 Maior Fitness: 15.072664 | Gene: JO-t
+Je@a"kY sKAetIihF'x6{z'` td~whaGfyou"k/%qnn( !m >3 do`Y;NsnVt m:kK";$Gs uVeyp;s 
+
+Geracao: 89 Maior Fitness: 16.000000 | Gene: Ju-t
+Ae@a"k} sKAet;ihF'x6{z'` (%~whaGfyou"k<%qnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVe<N;s 
+
+Geracao: 90 Maior Fitness: 15.072664 | Gene: Ju-t
+Je@a"k} sKAet3iHF'x3[z'` td~whaGfyou"k<%qnn( !m >3iao`Y;NsnVt m:Fm:;tGs uVe<N;s 
+
+Geracao: 91 Maior Fitness: 16.000000 | Gene: Ju-t
+Ae@a"k} sKAet;ihF'x6{z'` (%~whaGfyou"k<%qnn( rm J3 ao`Y;NsnVt m:Fm";tGs uVe<N;s 
+
+Geracao: 92 Maior Fitness: 15.072664 | Gene: Du-t
+Ae@a"k} sKAet;ihF'x6{z'` (%~whaGfyou"k/%qnn( !m >3 aohd;NsnVt m:FK";$Gs uVeGu;s 
+
+Geracao: 93 Maior Fitness: 16.955017 | Gene: Ju-t
+Ae@a"k} sKAet;ihF'x6{z'` (% whaGfyou"k<%qnn( rm J3 ao`Y;NsnVt m:Fm";tGs uie<N;s 
+
+Geracao: 94 Maior Fitness: 16.955017 | Gene: Ju-t
+Je@a"k} sKret>ihF'x6ej'` td~whaGfyou"k<%qnn( rm J3 ao`Y;NsnVt m:Fm"BtGs uie<N;s 
+
+Geracao: 95 Maior Fitness: 15.072664 | Gene: Ju-t'Ae@a"k} eKAet;ihF'x6{z'` (% whaGfyoX"k<%qnn( rm J3 ao`Y;NsnVt m:	m"BtGs uie<N;s 
+
+Geracao: 96 Maior Fitness: 16.000000 | Gene: JuZt
+Je@a"kZ sKret>ihF'x6ej'` td~w3aGfyou"k<%qnn( !m d3 ao`Y;NsnVg m:am";tGs uVe<N;s 
+
+Geracao: 97 Maior Fitness: 17.937716 | Gene: Ju-t
+Je@a"k} sKret>ihF'x6ej'` tx~whaGfyou"k<%qnn( !m d3 ao`Y;NsnKt m:am"(tGs uVe<N;s 
+
+Geracao: 98 Maior Fitness: 16.955017 | Gene: Ju-t
+Je@a"k} sKret>ihF'x6ej'` td~wlaGfyou"k<%qnn( !m d3 ao`Y;NsnKt m:am"(tGs uVe<N;s 
+
+Geracao: 99 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a"k} sKret>ihF'x6ej'` tx~whaGfyou"plcqnVn !m >E _o d;NsnVtl:d6 f$!s uqeyN;s 
+
+Geracao: 100 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a"k} sKret>ihF'x6ej'` td~whaGfyou"plcqnVn !m >E _o d;NsnVt%:d6 f$!s uqeyN;s 
+
+Geracao: 101 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a""} sKret>ihF'x6ej'` tx~whaGfyou"plcqnVn !m >E _o d;NsnVt%:d6 f$!s uqeyN;s 
+
+Geracao: 102 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a"M} sKret>ihF'x6ej'` td~whaGfyou"plcqnVn !m >E _o d;NsnVt%:d6 f$!s uqeyN;s 
+
+Geracao: 103 Maior Fitness: 17.937716 | Gene: Ju-t
+Je@a"|} sKret>ih*'x6ej'` tx~whaGfyou"plcq4Vn !m >E _o d;NsnVt%:d6 f$!s uqeyN;s 
+
+Geracao: 104 Maior Fitness: 16.000000 | Gene: Ju-t
+Je@a"|} sKret>ih*'x6ejf` tx~whaGfyou"p<%qne( !j >3 ao`Y;NsnVt m:Fm";tGf uVpN;s 
+
+Geracao: 105 Maior Fitness: 17.937716 | Gene: Ju-t
+Je@a"M} sKret>ihF'x6ej'` td~whaGfyou"p<%nnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVe<N;W 
+
+Geracao: 106 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a"M} sKret>ihF'x6ej'` td~whaGfyou"p<%nnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVe<N;s 
+
+Geracao: 107 Maior Fitness: 19.986159 | Gene: Ju-t
+Je@a"s} sKret>ihF'x|ej'+ td~whaGfyou"p<%nnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVeVN;s 
+
+Geracao: 108 Maior Fitness: 19.986159 | Gene: Ju-tGJe@a"s} sKret>ihF'x|ej'` td~whaGfyou"p<%nnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVeVN;s 
+
+Geracao: 109 Maior Fitness: 18.948097 | Gene: Ju-t
+Je@a"s} sKret>ihF'x|}j'+ td~whaGfyou"p<%nnn( !m >3 ao`Y;NsnVt m:Fm";tGs uVeVN;s 
+
+Geracao: 110 Maior Fitness: 21.051903 | Gene: Ju-t
+Je@a"s} sKret>ihF'x6ej'` td~whaGfyou"p<%nne( !m >3 ao`Y;NsnVt m:Fm";tGs uVe|N;s 
+
+Geracao: 111 Maior Fitness: 19.986159 | Gene: Ju-t
+Je@a"s} sKret>ihF'x6ej'` td~w*aGfyou"p<%nne( !m >3 ao`Y;NsnVt m:Fm";tGs uVe|N;s 
+
+Geracao: 112 Maior Fitness: 21.051903 | Gene: Ju-t
+Je@a"k} sKret>ihg'n6ej'` t
+~whaGfyou"p<%nne( !m >3 ao`Y;NsnVt m:Fm";tGs uVe|N;s 
+
+Geracao: 113 Maior Fitness: 21.051903 | Gene: Ju-t
+Je@a"k} sKret>ihg'n6ej'` t
+~whaGfyou"plUqnVn !m >4 _o d;NsnVt /:dA f$!s 6qeyNss 
+
+Geracao: 114 Maior Fitness: 22.145329 | Gene: Ju-t
+Je@ays} sKret>ihF'x6ej'` tG~whatPyou"p<%nne( !m >3 ao`Y;NsnVt m:Fm";tGs uVe|N;s 
+
+Geracao: 115 Maior Fitness: 22.145329 | Gene: Ju-t=>e@ays} sKret>ihF'x6ej'` td~whatfyou"p<%nne( !m >3 ao`Y;NsnVt m:Fms;tGs uVe|N;s 
+
+Geracao: 116 Maior Fitness: 22.145329 | Gene: Ju-t
+Je@ays} sKret>ihF7x6ej'` yG~whatPyou"p<%nne( !m >3 ao`Y;NsnVt m:Fms;tGs uVe|N;s 
+
+Geracao: 117 Maior Fitness: 22.145329 | Gene: Ju-t=>e@ays} sKret>ihF'x6ej'` td~whatfyou"p<%nne( !m >3 ao`Y;NsnVt m:Fms;tGs uVe|N;s 
+
+Geracao: 118 Maior Fitness: 21.051903 | Gene: Ju-t
+Je@ays}YsKret>ihF7x6ej'` yG~whatPyou"p<%nne( !m >3 ao`YNsn)t m:Fms;tGs uVe|N;s 
+
+Geracao: 119 Maior Fitness: 19.986159 | Gene: Ju-t=>e@ays} sKret>ihF'x6ej'`0td~whatfyou")<%nne( !m >y ao`Y;NsnVt m1Fm>;tGs uVe|N;s 
+
+Geracao: 120 Maior Fitness: 21.051903 | Gene: Ju-t=>e@ays} sKret>dhF'x6ej'` td~whatfyou"p<%nne( !m >y ao`YjNsnVt m:Fm>;tGs uVe|N;s 
+
+Geracao: 121 Maior Fitness: 23.266436 | Gene: Ju-t
+Je@a"k} sKret>ihg'zoejn'` td~wha7!you"kGLqne( !m d3 ao`d;NsnVt m:am";tGs uVe<N;s 
+
+Geracao: 122 Maior Fitness: 22.145329 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"kGLqne( !m d3 ao`d;NsnVt m:am";iGs uVe<N;s 
+
+Geracao: 123 Maior Fitness: 23.266436 | Gene: Ju-t
+7e@a"k}{sKret>ihg'z6ejn~` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 124 Maior Fitness: 24.415225 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"p<%nnJ( it >k ao`YJNsnVt mwFjI;tGs uVe<N;s 
+
+Geracao: 125 Maior Fitness: 24.415225 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"p<%nnJ( it >k ao`YJNsnVt mwFjI;tGs uVe<N;s 
+
+Geracao: 126 Maior Fitness: 25.591696 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 127 Maior Fitness: 25.591696 | Gene: Ju-t
+Je@apk} sKret>ihg'z6ejn'` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 128 Maior Fitness: 25.591696 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 129 Maior Fitness: 25.591696 | Gene: Ju-t
+Je@apk} sKret>ihg&z6ejn'` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 130 Maior Fitness: 25.591696 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaG you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 131 Maior Fitness: 24.415225 | Gene: Ju-t
+Je@a"k} sKret>ihg'z6ejn'` td~whaGIyou"p3%nnT_ it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 132 Maior Fitness: 26.795848 | Gene: Ju-t
+Jeca"k} sKret>ihg'zoe=n'` td~wha7!you"p3%nnT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 133 Maior Fitness: 25.591696 | Gene: Ju-t
+Jeca"k} sKret>ihg'zoe=n'` td~wha7!you"p3%1nT( it > ao`MJNsnVt mwFnI;tGs uVe<N;s 
+
+Geracao: 134 Maior Fitness: 26.795848 | Gene: Ju-tJJe@a"k} sKret>ihg'd6ejn'` td~whaG you"p3`nnT( it > ao`MJNsnVt mwCnI;tGs uVeHN;s 
+
+Geracao: 135 Maior Fitness: 26.795848 | Gene: Ju-t=Ne@ays} sKret>ihF'x6ej'` td whatfyou p3%nnT_ it > ao`MJ/snVt mwFnc;tGs uVe<N;s 
+
+Geracao: 136 Maior Fitness: 28.027682 | Gene: Ju-tJJe@a"k} soret>ihg'd6ej['! td~whaG you"pl%nnT( it >k do`YJmsnPt mwFmI;tGs uVe<N;s 
+
+Geracao: 137 Maior Fitness: 28.027682 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td~whaG you"pl%nnT( it >k d	`YJ,snPt mwFmI;tGs uVe<N;s 
+
+Geracao: 138 Maior Fitness: 28.027682 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td~whaG you"pl%nRT( it >k do`YJ,snPt mwFmI;tGs uVe<N;s 
+
+Geracao: 139 Maior Fitness: 29.287197 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td~whaG you"pl%nnT( it >k do`YJ,snPt mwFmI;tGs uVe<N;s 
+
+Geracao: 140 Maior Fitness: 29.287197 | Gene: Ju-tJJe@a"k} soGet>ihg'd6ejn'` td~whaG you"pl%nnT( it >k do`YJ,snPt mwFm$;tGs uVe<N;s 
+
+Geracao: 141 Maior Fitness: 29.287197 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td~whaG you"pl%nnT( it >k do`YJ,snPt mwFm$;tGs uVe<N;s 
+
+Geracao: 142 Maior Fitness: 28.027682 | Gene: Ju-tJJe@a"k} soG`t>ihg'd6ejn'` td~whaG you"pl%nnT( it >k do`TJ,snPt mwFm$;tGs uVe<N;s 
+
+Geracao: 143 Maior Fitness: 28.027682 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'`*td~whaG you"pl%nnT( it >k do`YM,snPt mwFmI;tGs uVe<m;s 
+
+Geracao: 144 Maior Fitness: 29.287197 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td~whaG you"pl%nnT( it >k do`YJ,snPt mwFmI;tGs uVe<N;s 
+
+Geracao: 145 Maior Fitness: 29.287197 | Gene: Ju-tJJe@aak} soret>ihg'd6ejn'` td~whaG you"p3%nnT_ it > aoCMZNsnVt mwOnIOtGs uVell;s 
+
+Geracao: 146 Maior Fitness: 29.287197 | Gene: Ju-t be@ays} sKret>ihF'x6ejd` td whatfyou pl%nnTB it >k do`J,snPt mwFmI;tGs uVe<N;s 
+
+Geracao: 147 Maior Fitness: 31.889273 | Gene: JustJJe@a"k  sor9t>ihg'd6ejn'` dd~whaG you"pl%nnT( it +k do`YJ6snP$ mwFPI;t's uVelN;s 
+
+Geracao: 148 Maior Fitness: 29.287197 | Gene: JustJJe@a"k  sor9t>ihg'd6ejn'` dd~whaG you"pl%nnT( ii +k do`YJ6snP$ mwFPI;t0s uVelN;s 
+
+Geracao: 149 Maior Fitness: 31.889273 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td whaG you"pl%nnT( it +k do`YJ6snP$ mwFPI;t's uVel7=s 
+
+Geracao: 150 Maior Fitness: 30.574394 | Gene: Ju-tJJe@a"k} soret>ihg'd6ejn'` td wFaG you"pk%nnT_ it > ao`[JesnVt m$FnIitGs uMe<N;s 
+
+Geracao: 151 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihgRd6ejn'` dd~whaG you"pl%nnT( it +k do`YJ6snP$ mwFPI;t's uVel7=s 
+
+Geracao: 152 Maior Fitness: 31.889273 | Gene: JustJJe@a"ke sor9t>ihgRd6ejn'T dd~whaG Iou"pl%nnT( it +k do`YJ6snP$ mwFPIft's uVel7=s 
+
+Geracao: 153 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihgRd6ejn'T dd~whaG you"pl%nnT( it +k doFYJ6snP$ mwFPI;t's uVel7=s 
+
+Geracao: 154 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihgRd*ejn'` dd~whaG you"pl%nnT( it +k doFYJ6snP$ mwFPI;t's uVel7=s 
+
+Geracao: 155 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihgRd6ejn'T dd~whaG you"pl%nnT( it +k doFYJ6snP$ mwFPI;t's uVel7=s 
+
+Geracao: 156 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihgRd6ejn'T dd~mhaG you"pl%nnT( it >c do`YJ,sn'Q mwFmI;tGs uele;s 
+
+Geracao: 157 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke sor9t>ihg_d6ejn'` dd~whaG you"pl%nnT( it >k do)TOesnPt mwFmI;tGs u~e<
+;s 
+
+Geracao: 158 Maior Fitness: 33.231834 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T dd~wh[G yau"pl%nnT( it +k do`YJ6snP$ mwFPI;t's ugelNss 
+
+Geracao: 159 Maior Fitness: 34.602076 | Gene: JustJJe@a"ke sorej>ihgRd6ejn'T dd~whaG you"pl%nnT( it +k do`YJ6snP$ mwFPI;t's ugelNss 
+
+Geracao: 160 Maior Fitness: 36.000000 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnT( it +k do`%J6snP$ mwFPI;t's ugelNss 
+
+Geracao: 161 Maior Fitness: 34.602076 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnT( it +k do`%J6snP$ mwFPI;t's ugelNs	 
+
+Geracao: 162 Maior Fitness: 34.602076 | Gene: J6stsJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnT( it +k do`YJ6snP$ mwFPI;t's ugelNss 
+
+Geracao: 163 Maior Fitness: 36.000000 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnTr it +k do`YJ6snP$ mwFPI;t's ugelNss 
+
+Geracao: 164 Maior Fitness: 37.425606 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnT( it +o doGYT6snP$ mwaPI;t's u]elN;s 
+
+Geracao: 165 Maior Fitness: 37.425606 | Gene: JustJJe@a"ke soret>ihgRd~ejn'T d/~whaG you"pl%nnT( it +o doGYT6snP$ mwaPI;t's u]elN;s 
+
+Geracao: 166 Maior Fitness: 37.425606 | Gene: JustJJe@a"ke soret>ihgRd6ejn'T d/~whaG you"pl%nnT( it +o doGYT6snP$ mwaPI;t's u]elN;s 
+
+Geracao: 167 Maior Fitness: 37.425606 | Gene: JustJJe@a"ke so@et>ihgRd~ejn'T d/~whaG youzpl%nnT( it +o doGYT6snP$ mKaPI;t's u]elN;s 
+
+Geracao: 168 Maior Fitness: 36.000000 | Gene: JustJJe@a"ke so@et>ihgRd~ejn'T d/~whaG eouzpl%nnT( it >k do YJ,snPQ mwFmIitGs uele;s 
+
+Geracao: 169 Maior Fitness: 37.425606 | Gene: Jusp Je@a"'e sor9tihgRdoejn'` dB~whaG you"pl%nnT( it +o doGYT6snP$ mKaPI;t's u]elN;s 
+
+Geracao: 170 Maior Fitness: 37.425606 | Gene: Just Je@a"'e str9tihgRdoejn'` dB~whaG you"pl%nnT( it +o doGYT6snP$ mKaPI;t's u]elN;s 
+
+Geracao: 171 Maior Fitness: 37.425606 | Gene: Just Je@a"'e sor9tihgRdoejn'` dB~whaG you"pl%nnT( it +o/doGYT6snP$ mKaPI;t's u]elN;s 
+
+Geracao: 172 Maior Fitness: 36.000000 | Gene: Just bera"1e sor9t>ihgRd6ejn'` dd~whaG you"pl%nnz( it +o doGYT6snP$ mKaPI;s/s u]elN;s 
+
+Geracao: 173 Maior Fitness: 40.359862 | Gene: Just Je@a"1e sor9tihgRdoejn'` dd~whaG you"p3%nnT_ it t aoCMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 174 Maior Fitness: 38.878893 | Gene: JustJ2e@a|ke sorJt>ihLRd6e;n't dd~what you"p3%nnT_ it t aoCMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 175 Maior Fitness: 40.359862 | Gene: Just bera"1e sor9t>ihgRd6esn'` dd~whaG you"pl%nnT( it Kk do YJTsnP! mw6mIitGs uele;s 
+
+Geracao: 176 Maior Fitness: 38.878893 | Gene: Ju)t ee@a"se sor9t>ihgRd6ejn't ddKwhaG you"pl%nnT( it Kk do YJTsnP! mw6mIitGs uele;s 
+
+Geracao: 177 Maior Fitness: 38.878893 | Gene: JuAt bera"1e sor9t>ihgRd6esn'` dd~whaG you"p3%nnT_ it t aoCMAHsnVt3mwanI_tGs uselgss 
+
+Geracao: 178 Maior Fitness: 41.868512 | Gene: Just ee@a"se sor9t>ihgRd6ezn't d@KwhaG you"p3%nnT_ it t aoDMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 179 Maior Fitness: 40.359862 | Gene: Just ee@a"se sor9t>3hgRd6ejn't d@KwhaG you"p3%nnT_ it t aoDMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 180 Maior Fitness: 41.868512 | Gene: Just ee@a"se so\9t>ihgRd6ezn't d@KwhaG you"p3%nnT_ it t aoDMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 181 Maior Fitness: 40.359862 | Gene: Just bera"1e sor9t>ihgRd6esn#` dd~whaG you"p3%nnT_ it t aoDMAHsnVt mwanI_tGs uselgss 
+
+Geracao: 182 Maior Fitness: 41.868512 | Gene: Just ee@a"se so\9t>ihgRd6ezn't d@KwhaG you"pl%nne( it >k do YJ,snPQ mwFmIitGs uele;s 
+
+Geracao: 183 Maior Fitness: 41.868512 | Gene: Just ee@a"se so\9t>ihgRd6ezn't d@KwhaG you"pl%nne( it >k do YJ,snPQ mwFmIitGs uele;s 
+
+Geracao: 184 Maior Fitness: 38.878893 | Gene: Just ee@a"se so\9t>ihgRd6ezn't d@KwhaG Gou",l%nne( it >k do YJ,snPQ mwFmIitGs uele;s 
+
+Geracao: 185 Maior Fitness: 40.359862 | Gene: Just eexa"se so\9t>ihgRd6ezn't d@KwhaG you"pl%nQe( it >k do YJ,snPQ mwFmIitGs uele;s 
+
+Geracao: 186 Maior Fitness: 40.359862 | Gene: Just ee@a"se so\9t>ihgRd6ezn't d@KwhaG yo""pl%nne( it >k do YJ,snPQ mwFmCitGs uele;s 
+
+Geracao: 187 Maior Fitness: 43.404844 | Gene: Just bera"We sor<t>ihgRdoesn'` ddRwhaG you"pn%nnT_ it t% doCMZNsnbt mwanI[tGs u[elss 
+
+Geracao: 188 Maior Fitness: 41.868512 | Gene: Just bera"1e Oor9t>ihgRd6esn'` dd whaG you"pn%nnT_ it t% doCMZNsnbt mwanI[tGs u[elss 
+
+Geracao: 189 Maior Fitness: 41.868512 | Gene: Just bera"1e sor9t>ihgRd6esn'` dd whaG you"pn%3nT_ it t% doCM[Nsnbt mwanI[tGs uVelss 
+
+Geracao: 190 Maior Fitness: 41.868512 | Gene: Just bera"1e sor9t>ihgRd6esn'` dd whaG you"pl%one( it >k do YJ,snPQ mhFmIitGs uele;s 
+
+Geracao: 191 Maior Fitness: 44.968858 | Gene: Just bera"1e so19t>ihgtd6esn'` dd~what you pl%nnT( it tk do`AovsnP, mwFu`itGs uele3s 
+
+Geracao: 192 Maior Fitness: 44.968858 | Gene: Just bera"1e so19t>ihgtd6esn'` dd~what you pl%nnT( it tk do`AovsnP, mwFu`itGs uele3s 
+
+Geracao: 193 Maior Fitness: 43.404844 | Gene: Just bera"1e so19t>ihgtdqesn'` dd~what you Il%nnT( it tk do`AovsnP, mwFu`itGs uele3s 
+
+Geracao: 194 Maior Fitness: 44.968858 | Gene: Just bera"1e so19t>ihgtd6esn'` dd~what you pl%nnT( it tk do`AovsnP, mwFu`itGs uele3s 
+
+Geracao: 195 Maior Fitness: 44.968858 | Gene: Just bera"1e so19t>ihgtd6esn'` dd~what]you p3%nnTd it t aoCMCNsn't mranI[tGs uVel*ss 
+
+Geracao: 196 Maior Fitness: 46.560554 | Gene: Just Je@azWe sor9tmingRdoe`n'` do~whaG you pl%nnT( it tk do`dovsnP, mwFu`itGs ueele3s 
+
+Geracao: 197 Maior Fitness: 44.968858 | Gene: Just Je@azWe sor9tmingRdoe`n'` do~whaG youOpl%nnT( it tk do`dovsnP, mwFu`itGs ueele3s 
+
+Geracao: 198 Maior Fitness: 46.560554 | Gene: Just bera"1e so19t>ihgtd6esn'` dd~what you pl%nnT( it tk do`dovsnP, mwFu`itGs u"ele3s 
+
+Geracao: 199 Maior Fitness: 46.560554 | Gene: Just Je@azWe sor9twingRdoe`n'` do~whaG you pl%nnT( it tk do`dovsnP, mwFu`itGs u"ele3s 
+
+Geracao: 200 Maior Fitness: 46.560554 | Gene: Just Je@azWe sor9twingRdoe`n'` do~whaG you p3%nnTd it t aoCMCNsn't m2anI[tGs uVel*ss 
+
+Geracao: 201 Maior Fitness: 46.560554 | Gene: Just bera"1e som9t>ihgtd6esn'` dd~what you pl%nnT( it t3 do`dovsnP, mwju`itGs "ele3s 
+
+Geracao: 202 Maior Fitness: 46.560554 | Gene: Just bera"1e som9t>ihgtd6esn'` dd~,hat you pl%nnT( it tk do`dovsnP, mwFu!itGs ueele3s 
+
+Geracao: 203 Maior Fitness: 48.179931 | Gene: Just bera"1e som9t>ihgtd6esn'` dd~what you pl%nny( it tk do`dovsnP, mwFueitGs u"ele3s 
+
+Geracao: 204 Maior Fitness: 48.179931 | Gene: Just bera"1e som9t>ihgtdResn'` dd~what you pl%nny( it tk do`dovsnP, mwFuYitGs u"ele3s 
+
+Geracao: 205 Maior Fitness: 48.179931 | Gene: Just bera"1e som9t>ihgtd6esn'` dd~what you pl%nny( it tk do`dovsnP, mwFuYitGs u"ele3s 
+
+Geracao: 206 Maior Fitness: 48.179931 | Gene: Just bera"1e som9t>ihgtdResn'` dd~what you pl%nny( it tk do`dovsnP, mwFuYitGs u"ele3s 
+
+Geracao: 207 Maior Fitness: 46.560554 | Gene: Just bera"1e som9t>ihgtd6esn'P dd~what you pl%nny( it tk do`dovsuP, mwFuYitGs u"ele3s 
+
+Geracao: 208 Maior Fitness: 44.968858 | Gene: Just bera"1e H$m9t>ihgtd6esn'P dd~what you pl%nnT( it tk do`dovsnS, mwFu!itGs ueele3s 
+
+Geracao: 209 Maior Fitness: 48.179931 | Gene: Just bera"1e som9t>ihgtdResn'` dd~what you pl%nnT( it tk do`dovsnP, mwFu!itGs ueele3s 
+
+Geracao: 210 Maior Fitness: 48.179931 | Gene: Just Fera"1e som9t>ihgSdoesn'` dd~what you pn%nnat it t% do M[Nsnbt mwan,[tGs uVelss 
+
+Geracao: 211 Maior Fitness: 51.501730 | Gene: Just Je8az+e som9tming doe`n'` do~whaM you pl%nnT( it tk do`doZsnPt mwFufitGs ueele3s 
+
+Geracao: 212 Maior Fitness: 51.501730 | Gene: Just Je8azte som9tming doe`n'` do~whaG you pl%nnT( it tk do`doZsnPt mwFufitGs ueele3s 
+
+Geracao: 213 Maior Fitness: 51.501730 | Gene: Just Je8az+e som9tming doe`n'` do~whaM you pl%nnT( it tk do`doZsnPt mwFufitGs ueele3s 
+
+Geracao: 214 Maior Fitness: 49.826990 | Gene: Just Je8azte som9tmiyg doe`n'` do~whaG you pl%nnT( it tk do`doZsnPt mwFufitGs ueele3s 
+
+Geracao: 215 Maior Fitness: 51.501730 | Gene: Just bera"1e som9t>ihgSdoesn'` dd~what you p3%nnTd it t !oCCNsn't m2an9[t's uVel*ss 
+
+Geracao: 216 Maior Fitness: 49.826990 | Gene: Just bera"1e som9t>iugSdoesn'` dd~whZt you p3%nnTd it t !oCCNsn't m2an9[t's uVel*ss 
+
+Geracao: 217 Maior Fitness: 51.501730 | Gene: Just bera"1e som9t>ihgSdoesn'` dd~what you p3%nnTd it t !oCMCNsn't m2anQ[t's uVel*ss 
+
+Geracao: 218 Maior Fitness: 51.501730 | Gene: Just bera"1e som9t>i,gSdoesn'` dd~what you p3%nnTd it t !oCMCNsn't m2anQ[t's uVel*ss 
+
+Geracao: 219 Maior Fitness: 53.204152 | Gene: Just Je8azte som9tming doe`n'` do~whaG you pl%nnT( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 220 Maior Fitness: 53.204152 | Gene: Just bera"1e somTt>ihgSdoesn'` db~what you pl%nnT( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 221 Maior Fitness: 51.501730 | Gene: Just Je8azte som9tming dWe`n'` do~whaG you pl%nnT( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 222 Maior Fitness: 48.179931 | Gene: Just bera"1ewsom9t>igSdoesn'` do~what yo	 pl%nnT( i7 tk do`doZsnP6 mwFufit's ueele3s 
+
+Geracao: 223 Maior Fitness: 54.934256 | Gene: Just bera"1e som9t>igSdoesn'` do~what you pl%nnS( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 224 Maior Fitness: 53.204152 | Gene: Just bera"1e som9t>igSdlesn'` do~what you pl%nnS( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 225 Maior Fitness: 53.204152 | Gene: JusR bera"1e somRt>igSdoesn'` do~what you plRnnT( it tk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 226 Maior Fitness: 53.204152 | Gene: Just bera"1e som9t>igSdoesn'` do~what you pl%nn}( it Gk do`doZsnPt mwFufit's ueele3s 
+
+Geracao: 227 Maior Fitness: 49.826990 | Gene: Just bera"1e somRt>igSdoesn'` do~what you pl%3n}( it tk do`doZsnPt mwFufit's ueeve3{ 
+
+Geracao: 228 Maior Fitness: 54.934256 | Gene: Just bera{1e som9t>igSdoesn'F do~what you pl%nn]( it tk do`doZsnPt mwFufit's ueele"s 
+
+Geracao: 229 Maior Fitness: 53.204152 | Gene: Just bera"1e som9t>igSdoesn'`do~what you pl%nn]( it tk do`doZsnPt mwFufit's ueele"s 
+
+Geracao: 230 Maior Fitness: 54.934256 | Gene: Just bera{1e som9t>igSdoesn'F do~what you pl%nn#( it tk do`doZs4't mMFufit's ueele3s 
+
+Geracao: 231 Maior Fitness: 53.204152 | Gene: Just beca"1e .om9t>igSdoesn'` do~what you pl%nn#( it tk do`coZs4't mMFufit's ueele3s 
+
+Geracao: 232 Maior Fitness: 54.934256 | Gene: Just bera{1e som9t>igSdoesn'F do~what you plRjnT( it tk do`doZsnPt mvF] it's ueele3s 
+
+Geracao: 233 Maior Fitness: 56.692042 | Gene: Just bera"1e somRthigSdoesn'` do~what you pl%nnT( it tk do`doZsn<t mwFufit's ueele3s 
+
+Geracao: 234 Maior Fitness: 58.477509 | Gene: Just bera"1e somRthigSdoesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 235 Maior Fitness: 58.477509 | Gene: Just beFaAse somRt>igSdoesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 236 Maior Fitness: 58.477509 | Gene: Just bera"1e somRthigSdoesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 237 Maior Fitness: 56.692042 | Gene: JustBbera"1e somRthigSdoesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 238 Maior Fitness: 56.692042 | Gene: JustBbera"1e somRthigSdoesn'` do~what you plannT( it tk do`do5snt mbFufit's ueele3s 
+
+Geracao: 239 Maior Fitness: 54.934256 | Gene: Juot bera"je som9t
+ig doesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7itrs ueele3s 
+
+Geracao: 240 Maior Fitness: 58.477509 | Gene: Just bera"<e som9t
+ig doesn'` do~what you pl%nn]( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 241 Maior Fitness: 56.692042 | Gene: Just bera"je som9t
+ig doe{n'` do~what you pl%nnQ( it tk do`doZsnPt mlFn7it's ueele3s 
+
+Geracao: 242 Maior Fitness: 56.692042 | Gene: Just bera"1e somRthigSdoesU'` do~what+you pl%nn]( it to do`doZsnPt m3Fn7it's ueele3s 
+
+Geracao: 243 Maior Fitness: 58.477509 | Gene: Just bera"1e somRthigSdoesn'` do~what you plannT( it tk do`do5snt mbFufit's ueele3s 
+
+Geracao: 244 Maior Fitness: 60.290657 | Gene: Just bera"1e somRthigSdoesn'` do~what you pl%nn]( it to do`doZsnPt m3Fn7it's ueele3s 
+
+Geracao: 245 Maior Fitness: 62.131488 | Gene: Just becaAse somRt>igSdoesn'0 do~what you pl%nn]( it to do`doZsnPt m3Fn7it's ueele3s 
+
+Geracao: 246 Maior Fitness: 60.290657 | Gene: Just becaAse somRt>igSdoesn'0 do~what you pl%nn]( qt to do`doZsnPt m3Fn7it's ueele3s 
+
+Geracao: 247 Maior Fitness: 60.290657 | Gene: Just becaAse somRt>igSdoesn'0 do~what you pl%nn]( qt to do`doZsnPt m3Fn7it's ueele3s 
+
+Geracao: 248 Maior Fitness: 58.477509 | Gene: Just becaAse so4Rt>igSdoesn'0 do~what you plannT( it tk do do5sn= mbFufit's ueele3s 
+
+Geracao: 249 Maior Fitness: 62.131488 | Gene: Just beca"se somRt>igSdoesn'` do~what you pl[nnT( it tk do`doesnPt mwaufit's ueele9s 
+
+Geracao: 250 Maior Fitness: 60.290657 | Gene: Just beVaAse somRt>igSdoesn'0 do~what you pl[nnT( it tk do`doesnPt mwaufit's ueele9s 
+
+Geracao: 251 Maior Fitness: 58.477509 | Gene: Just beca"se somRt>3gSdoesn'` do~what you pl[nnT( it tk do`doesnPtNmwaufit's ueele9s 
+
+Geracao: 252 Maior Fitness: 62.131488 | Gene: Just beca"se som{t>igSdoesn'` do~what you pl[nn ( it tk do`doesnPt mwaufit's ueele9s 
+
+Geracao: 253 Maior Fitness: 62.131488 | Gene: Just becaAse somRt>igSdoesn'% do~what you plannT( it tk do`do5snt myFnfit's ueele3s 
+
+Geracao: 254 Maior Fitness: 62.131488 | Gene: Just becaAse somRt>ig doesn'0 >o~what you pl[nnT( i, tk do doZsnPt mfaufit's usele9s 
+
+Geracao: 255 Maior Fitness: 64.000000 | Gene: Just becaAse somRt>i/g doesn'0 Co~what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 256 Maior Fitness: 64.000000 | Gene: Just becaAse somRt>ig doesn'0 do~what you pl[nnU( it tX do eoZsnPt mfaufit's usele9s 
+
+Geracao: 257 Maior Fitness: 65.896194 | Gene: Just becaAse somRt>iug doesn'0 do~what you pl[nn7( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 258 Maior Fitness: 60.290657 | Gene: Just becaAse somRt>ig doesn'0 do~what yo. pl[nn7( it tX do doZsnPt mfaufit'Z use:e9s 
+
+Geracao: 259 Maior Fitness: 65.896194 | Gene: Just becaAse somRt>iug doesn'0 do~what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 260 Maior Fitness: 64.000000 | Gene: Just becaAse somRt>ig doesn'0 do0what you pl[nnT( it tX doKdoZsnPt mfaufit's usele9s 
+
+Geracao: 261 Maior Fitness: 64.000000 | Gene: Just becaAse somRt>ig doesn'0 do~what you pZ[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 262 Maior Fitness: 64.000000 | Gene: Just becaAse 4omRt>iug doesn'0 do~what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 263 Maior Fitness: 65.896194 | Gene: Just becaAse somRt>iug doesn'0 do~what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 264 Maior Fitness: 62.131488 | Gene: Just becaAse somRt>iug doesn'0 do~w!at you pl[nnT( it tX do doZsnPtwmfaufit's usele9s 
+
+Geracao: 265 Maior Fitness: 65.896194 | Gene: Just becaAse somRt>i/g doesn't do~what you pl[nnT( it tX dF doZsnPt mfaufit's usele9s 
+
+Geracao: 266 Maior Fitness: 65.896194 | Gene: J7st becaAse somRt>iug doesn'0 do what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 267 Maior Fitness: 67.820069 | Gene: Just becaAse som~t>i/g doesn't do~what you pl[nnT( it tX do doZsnPt mpaufit's usele9s 
+
+Geracao: 268 Maior Fitness: 67.820069 | Gene: Just becaAse somRt>i/g doesn't do~what you pl[nnT( it tX do doZsnPt mpaufit's usele9s 
+
+Geracao: 269 Maior Fitness: 64.000000 | Gene: Just bePaAse som~t>i/g doesn't do~what you pl'n[TR it tX do doZsnPt mpaufit's usele9s 
+
+Geracao: 270 Maior Fitness: 64.000000 | Gene: Just becaAse som~z>
+/g doesn't do~what you pl[nnT( it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 271 Maior Fitness: 67.820069 | Gene: Just becaAse somRt>i/g doesn't do~what you pl[nnTJ it tX do doZsnPt mfaufit's usele9s 
+
+Geracao: 272 Maior Fitness: 65.896194 | Gene: Just becaAse somRt>i/g /oesn't do~what you pl[nnT( it tX do doZsnPt m4au	it's usele9s 
+
+Geracao: 273 Maior Fitness: 69.771626 | Gene: Just beca=se somet)i/g doesn't do_what you pl[nnTJ it tX do doZsnPt m+aufit's usele9s 
+
+Geracao: 274 Maior Fitness: 67.820069 | Gene: Just beca=se somet>i/g doesn't do_what you pl[?nTJ it tX do doZsnPt m+aufit's usele9s 
+
+Geracao: 275 Maior Fitness: 67.820069 | Gene: Just becaIse somet)i/g doesn't do_what you pl[nnTJ it tX do ioZsnPt mfaufit's usele9s 
+
+Geracao: 276 Maior Fitness: 67.820069 | Gene: Just beca=se somet>i/g doesn't do_what you pl[nnTJ it tX do doZCnPt mfa6fit's usele#s 
+
+Geracao: 277 Maior Fitness: 65.896194 | Gene: Just beca=se sometyi/g does/'tQdo_what you pl[nne( it tX do doCsnPt mfa#fit's use.e9s 
+
+Geracao: 278 Maior Fitness: 69.771626 | Gene: Just beca=se somet)i/g doesn't do_what you pl[nnTJ it tP do doZsnPt mfaufit's usele9s 
+
+Geracao: 279 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i/g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's usele9s 
+
+Geracao: 280 Maior Fitness: 69.771626 | Gene: Just beca=se somet)i/g doesn't do_what you pl[nne(<it tX do doZsnPt mfa#fit's usele9s 
+
+Geracao: 281 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i/g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's useleSs 
+
+Geracao: 282 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's useleSs 
+
+Geracao: 283 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's useleSs 
+
+Geracao: 284 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's useleSs 
+
+Geracao: 285 Maior Fitness: 69.771626 | Gene: Just beca=secsomet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#fit's useleSs 
+
+Geracao: 286 Maior Fitness: 71.750865 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#[it's usele9s 
+
+Geracao: 287 Maior Fitness: 67.820069 | Gene: bust beMa=se somet)i5g doesn't do_what you pl[nne( it tX do doZsnPt mfa#[it's usele9s 
+
+Geracao: 288 Maior Fitness: 69.771626 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nno( it t3 do doZsn7t mfa#[it's usele9s 
+
+Geracao: 289 Maior Fitness: 67.820069 | Gene: Just beca=se somet)i5g doesn't do_what you pl[nne( it tX do doZ
+nP3 mfa#fit's usele9s 
+
+Geracao: 290 Maior Fitness: 71.750865 | Gene: Just beca=se sometding doesn't do_what you plFnne( it t3 do doZsn7t mfa#[it's isele9s 
+
+Geracao: 291 Maior Fitness: 73.757785 | Gene: Just beca=se sometding doesn't do_what you plFnne( it t3 do doZsn7t mfa#[it's usele9s 
+
+Geracao: 292 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't meaufit's uselehs 
+
+Geracao: 293 Maior Fitness: 73.757785 | Gene: Ju)t beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 294 Maior Fitness: 75.792388 | Gene: Just beca=se somet6ing doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 295 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 296 Maior Fitness: 73.757785 | Gene: Just beca=se someg6ing doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 297 Maior Fitness: 71.750865 | Gene: Just beca=se someg6yng doesn't do_what you pl[nne( it tX do doZsn_t m|a#Yit's useless 
+
+Geracao: 298 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 299 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 300 Maior Fitness: 73.757785 | Gene: JustGbeca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea1fit's uselehs 
+
+Geracao: 301 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea18it's uselehs 
+
+Geracao: 302 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea18it's uselehs 
+
+Geracao: 303 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea18it's uselehs 
+
+Geracao: 304 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea18it's uselehs 
+
+Geracao: 305 Maior Fitness: 73.757785 | Gene: Just beca=se sometding doesn't do_what you pl[nnT( it tX do doZsn't mea18it's uKelehs 
+
+Geracao: 306 Maior Fitness: 73.757785 | Gene: Just beca=se sometding doesn't do_what {ou pl[nn8( it tf do doZsn't mea18it's uselehs 
+
+Geracao: 307 Maior Fitness: 75.792388 | Gene: Just becayse sometding doesn't do_what you pl[nnT( it t6 do doZsn't mea1fit's uselehs 
+
+Geracao: 308 Maior Fitness: 75.792388 | Gene: Just beca=se sometsing doesn't do_what you pl[nnT( it t6 do doZsn't mea1fit's uselehs 
+
+Geracao: 309 Maior Fitness: 71.750865 | Gene: Just becayseisometding doesn't do_what you pl[nnT3 it t6 do doZsn't mea1fit's use'ehs 
+
+Geracao: 310 Maior Fitness: 73.757785 | Gene: Just beca=se some}Uing doesn't do_what you pl[nnT( it t6 do doQsn't mea1fit's uselehs 
+
+Geracao: 311 Maior Fitness: 71.750865 | Gene: Just beca=se sometsing doesn't do_what you pl[nne( it tX 2o doZsn_t mja#Yit' useless 
+
+Geracao: 312 Maior Fitness: 75.792388 | Gene: Just beca=se sometUing doesn't do_what you pl[nne( it tX do doZsn_t mja#Yit's useless 
+
+Geracao: 313 Maior Fitness: 73.757785 | Gene: Just beca=se sometjing doesn't do_what you pl[nne( it tX do doZsn_t mja#YiO's useless 
+
+Geracao: 314 Maior Fitness: 75.792388 | Gene: Just beca=se sometUing doesn't do_what you pl[nnek it t' do dov1n5t mfa# it's useless 
+
+Geracao: 315 Maior Fitness: 71.750865 | Gene: Just beca=se sometding doesn't do_what you pl[nnek it t' doOdov1n5t mfa# it's uOeless 
+
+Geracao: 316 Maior Fitness: 75.792388 | Gene: Just Seca=se sometding doesn't do_what you plannT( it tO do doZsn't meaT8it's uselehs 
+
+Geracao: 317 Maior Fitness: 75.792388 | Gene: Just Seca=se sometding doesn't do_what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 318 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do:what you plannT( it tO do doZsn'tTmeaT8it's uselehs 
+
+Geracao: 319 Maior Fitness: 75.792388 | Gene: Just beca=se sometding doesn't do:what you bl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 320 Maior Fitness: 77.854671 | Gene: Just beca=se sometding doesn't do:what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 321 Maior Fitness: 75.792388 | Gene: Just beca=se aometding doesn't do:what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 322 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do_what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 323 Maior Fitness: 77.854671 | Gene: Just because "ometding doesn't do_what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 324 Maior Fitness: 79.944637 | Gene: Just because somet<ing doesn't do_what you pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 325 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do_what you pl[nnT( it to do doZsn't mea18it's useleNs 
+
+Geracao: 326 Maior Fitness: 79.944637 | Gene: Just because somet<ing doesn't do_what you pl[nnT( it to do doZsn't mea18it's useleNs 
+
+Geracao: 327 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do_what you pl[nnT( it to do doZsn't mea18it's useleNs 
+
+Geracao: 328 Maior Fitness: 77.854671 | Gene: Justjbecause somet<ing doesn't do_what you pl[nnT( it to do doZsn't mea18it's useleNs 
+
+Geracao: 329 Maior Fitness: 75.792388 | Gene: Just because sometding doesnot do_whattyou pl[nnT( it to do doZsn't mea18it's uselehs 
+
+Geracao: 330 Maior Fitness: 79.944637 | Gene: Just becaus, sometding doesn't do what you plannT( it tO do doZsn't meaEDit's uselehs 
+
+Geracao: 331 Maior Fitness: 77.854671 | Gene: Just beIause sometding doesn't do what you pl[nnT( it to do doZsn'e mea18it's uselehs 
+
+Geracao: 332 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do what you pl[nnT( it tb do doZsn't mea18it's uselehs 
+
+Geracao: 333 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you plannT( it tO do doZsn't meGE it's uselehs 
+
+Geracao: 334 Maior Fitness: 82.062284 | Gene: Jusm because sometding doesn't do what you pl[nnT( it to do doZsn't mea18it's useless 
+
+Geracao: 335 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it tT do doZsn't mea18it's useless 
+
+Geracao: 336 Maior Fitness: 79.944637 | Gene: Just 8ecause sometding doesn't do what you pl[nnT(rit to do doZsn't mea18it's useless 
+
+Geracao: 337 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do/what you pl[nnT( it to do doZsn't mea18it's useless 
+
+Geracao: 338 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea18iQ's uselesx 
+
+Geracao: 339 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZ
+n't mea18it's useless 
+
+Geracao: 340 Maior Fitness: 79.944637 | Gene: Jxst because sometding doesn't do what you pl[nnT( i" to do doZsn't mea18it's useless 
+
+Geracao: 341 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[9nT( it to do doZsn't mea18it's useless 
+
+Geracao: 342 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea18it's useless 
+
+Geracao: 343 Maior Fitness: 79.944637 | Gene: Just because sometding doesn't do wha, you pl[nnT( it to do doZsn't mea18it's use]ess 
+
+Geracao: 344 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 345 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 346 Maior Fitness: 82.062284 | Gene: Just bJcause sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 347 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useress 
+
+Geracao: 348 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 349 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 350 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't m$a1
+it's useless 
+
+Geracao: 351 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do wQat you pl nnT( it to do doZsn't mea1
+it's useless 
+
+Geracao: 352 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZsn't meaq
+it's useless 
+
+Geracao: 353 Maior Fitness: 77.854671 | Gene: Just becau$e sometding doesn't do Vhat you p4[nnT( it to do do+sn't meaq
+it's useless 
+
+Geracao: 354 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it tF do doZsn't mea1
+it's useless 
+
+Geracao: 355 Maior Fitness: 86.380623 | Gene: Just because sometcing doesn't do what you pl+nnT( it to do doZsn't mean it's usele2s 
+
+Geracao: 356 Maior Fitness: 82.062284 | Gene: JusK because sometding doesn't do what you pl+nnT( it to do doZsn't mean it'? useleHs 
+
+Geracao: 357 Maior Fitness: 82.062284 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doZ2n't mea18it's useless 
+
+Geracao: 358 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doesn't m.a1eit's useless 
+
+Geracao: 359 Maior Fitness: 84.207612 | Gene: Just because sometding doe=n't do what you pl[nnT( it to do doesn't mea1:it's useless 
+
+Geracao: 360 Maior Fitness: 86.380623 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doesn't mea1:it's useless 
+
+Geracao: 361 Maior Fitness: 84.207612 | Gene: Just because sometding doesn't do what you pl[nnT( it to do doesnZt mea1:it's useless 
+
+Geracao: 362 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnT( it to do doGsn't mean
+it's useless 
+
+Geracao: 363 Maior Fitness: 86.380623 | Gene: Just becauseTsomething doesn't do what you pl[nnT( it to do doGsn't mean
+it's useless 
+
+Geracao: 364 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnO( it to do doesn't mea1:it's useless 
+
+Geracao: 365 Maior Fitness: 84.207612 | Gene: Just Lecause som@thing doesn't do what you pl[nnO( it to do doesn't mea1:it's useless 
+
+Geracao: 366 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what you pl[nnT( it to dN doesn't mea1:it's useless 
+
+Geracao: 367 Maior Fitness: 84.207612 | Gene: Just because something doesn't do what you&pl[nnT( it to do doesn't mea1:it'
+ useless 
+
+Geracao: 368 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnT( it to do doesn't mea1:it's useless 
+
+Geracao: 369 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnT( it to do doesn't mea1:it's useless 
+
+Geracao: 370 Maior Fitness: 84.207612 | Gene: JusM beca	se something doesn't do what you pl[nnT( it to do doesn't mea1Xit's useless 
+
+Geracao: 371 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what you pl[nnT( it to do /oesn't mea1:it's useless 
+
+Geracao: 372 Maior Fitness: 84.207612 | Gene: Just because somethin3 doesn't do what you pl[nnW( it t
+ do doZsn't mean<it's useless 
+
+Geracao: 373 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnW( it to do doZsn't mean<it's useless 
+
+Geracao: 374 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnW( it to do doZsn't mean<it's useless 
+
+Geracao: 375 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what you pl[nnW( it to do doZsn't meaA<it's useless 
+
+Geracao: 376 Maior Fitness: 86.380623 | Gene: Just because something doesn'tbdo what you pl[nnWo it to do doZsn't meanDit's useless 
+
+Geracao: 377 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what you el[nnO( it to do doesn't mea1:it's useless 
+
+Geracao: 378 Maior Fitness: 86.380623 | Gene: Just because something doesn'tAdo what you pl[nnO( it to do doesn't mea1:it's useless 
+
+Geracao: 379 Maior Fitness: 86.380623 | Gene: Ju6t because something doesn't do what you pl[nnO( it to do doesn't mea1:it's useless 
+
+Geracao: 380 Maior Fitness: 82.062284 | Gene: Just because something doesn't do what you pl[nzO( it to do doesn't %ea1:itYs useless 
+
+Geracao: 381 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 382 Maior Fitness: 88.581315 | Gene: Just becauseysomething doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 383 Maior Fitness: 86.380623 | Gene: Just becauseysomething doesn't do what you `l[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 384 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 385 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 386 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnTd/it to do doGsn't mean
+it's useless 
+
+Geracao: 387 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what y7u pW[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 388 Maior Fitness: 86.380623 | Gene: Just because something doesn't do what you<pl[nnTd it to do doGsZ't mean
+it's useless 
+
+Geracao: 389 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 390 Maior Fitness: 88.581315 | Gene: Just Jecause something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 391 Maior Fitness: 86.380623 | Gene: Just because something dresn't do what you pl[nnTd it t} do doGsn't mean
+it's useless 
+
+Geracao: 392 Maior Fitness: 86.380623 | Gene: JustObecause something doesn't do what you pl[nnTd it to do doGsn't mean
+it's use$ess 
+
+Geracao: 393 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 394 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnTd it to d] doGsn't mean
+it's useless 
+
+Geracao: 395 Maior Fitness: 88.581315 | Gene: Just because -omething doesn't do what you plcnnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 396 Maior Fitness: 86.380623 | Gene: Just becausz something doesn't do wh;t you plcnnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 397 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 398 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 399 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnTd it to do doGsn't mean
+it's useless 
+
+Geracao: 400 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnTd it to do doesn't meanIit's useless 
+
+Geracao: 401 Maior Fitness: 86.380623 | Gene: vust because something doesn't do what you pl[nnTd it to do doesn'tomeanIit'8 useless 
+
+Geracao: 402 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pI[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 403 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 404 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meaC
+it's useless 
+
+Geracao: 405 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesR't mean
+it's useless 
+
+Geracao: 406 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mea>
+it's useless 
+
+Geracao: 407 Maior Fitness: 90.809689 | Gene: Just becaus
+ something doesn't do what you pl[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 408 Maior Fitness: 84.207612 | Gene: Just because something doesn't do what yor+pl[nnd it to do doesn'? mean
+it's usel:ss 
+
+Geracao: 409 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do does$'t meanXit's useless 
+
+Geracao: 410 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 411 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't Jean
+it's useless 
+
+Geracao: 412 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 413 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mean
+it's usBless 
+
+Geracao: 414 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd ia to do doesn't mean
+it's useless 
+
+Geracao: 415 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't mean
+it;s useless 
+
+Geracao: 416 Maior Fitness: 88.581315 | Gene: Just because something doesn't do rhat you pl[nnd it to dordoesn't mean
+it's useless 
+
+Geracao: 417 Maior Fitness: 88.581315 | Gene: Juut because something doesn't do that you pl[nnd it to do doesn't meantit's useless 
+
+Geracao: 418 Maior Fitness: 90.809689 | Gene: Just because something doesn't do whay you pl[nnd it to do doesn't mean
+it's useless 
+
+Geracao: 419 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meaL
+it's useless 
+
+Geracao: 420 Maior Fitness: 90.809689 | Gene: Just because somethingdoesn't do what you plnnnd it to do doesn't mean
+it's useless 
+
+Geracao: 421 Maior Fitness: 90.809689 | Gene: Justlbecause something doesn't do what you plnnnd it to do doesn't mean
+it's useless 
+
+Geracao: 422 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nnd it to doydoesn't meJnNit's useless 
+
+Geracao: 423 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meanNit's useless 
+
+Geracao: 424 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meanNit's useless 
+
+Geracao: 425 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meanNit's useless 
+
+Geracao: 426 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meanNit's useless 
+
+Geracao: 427 Maior Fitness: 88.581315 | Gene: Just because something doesn't do whBt you pl[nnd it to do doesn't meanNit's usele[s 
+
+Geracao: 428 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl_nnSd it to do doesn'q mean
+it's useless 
+
+Geracao: 429 Maior Fitness: 90.809689 | Gene: JustHbecause something doesn't do what you plann@d it to do doGsn't mean
+it's useless 
+
+Geracao: 430 Maior Fitness: 88.581315 | Gene: Justbbecause something doesn't do what you plann@d it to do doGsn't mlan
+it's useless 
+
+Geracao: 431 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl_nnd it to do doesn't me	n
+it's useless 
+
+Geracao: 432 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnhd it to do doesn't mean>it's useless 
+
+Geracao: 433 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nohd it to do doesn't mean>it's useless 
+
+Geracao: 434 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl{nnd it to do doesn't mean?it's useless 
+
+Geracao: 435 Maior Fitness: 90.809689 | Gene: Just because some0hing doesn't do what you pl{nnd it to do doesn't mean?it's useless 
+
+Geracao: 436 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pl[nnd it to do doesn't meaZ
+it's useless 
+
+Geracao: 437 Maior Fitness: 88.581315 | Gene: Just because something doesn't do what you pl[nn- it to do doesn't me6n
+it's useless 
+
+Geracao: 438 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl[nnRd it to do doesn't mean
+it's useless 
+
+Geracao: 439 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 440 Maior Fitness: 93.065744 | Gene: Just because something dofsn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 441 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you pl;nned it to do doesn't mean
+it's useless 
+
+Geracao: 442 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl;nned it to do doesn't mean
+it's useles} 
+
+Geracao: 443 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pD;nned it to do doesn't mean
+it's useless 
+
+Geracao: 444 Maior Fitness: 90.809689 | Gene: Just because something io~sn't do what you pl;nned it to do doesn't mean
+it's useless 
+
+Geracao: 445 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl;nned it to do doesn't mean
+it's uselesi 
+
+Geracao: 446 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plannyd it to do doesn't mean%it's useless 
+
+Geracao: 447 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plannyd it to do doesn't mean%it's useless 
+
+Geracao: 448 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you plannyd it to~do doesn't mean%it's useless 
+
+Geracao: 449 Maior Fitness: 93.065744 | Gene: Just because something doesn't:do what you plannd it to do doesn't mean3it's useless 
+
+Geracao: 450 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you pl;nned it to do doesn't mean
+it's useless 
+
+Geracao: 451 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you pl;nned it to do doesn't mean
+it's useless 
+
+Geracao: 452 Maior Fitness: 90.809689 | Gene: Just because something doesn't do whatCyou pl;nned it to do doesn't yean
+it's useless 
+
+Geracao: 453 Maior Fitness: 93.065744 | Gene: Just because something does&'t do what you pl;nned it to do doesn't mean
+it's useless 
+
+Geracao: 454 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you pl;nned it to do doCsn't mean
+it's useless 
+
+Geracao: 455 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 456 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 457 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 458 Maior Fitness: 95.349481 | Gene: Just because somethingmdoesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 459 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 460 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnned it to do doesn't mean itys useless 
+
+Geracao: 461 Maior Fitness: 88.581315 | Gene: Just because somet$i:g doesn't do what you plnned it to do doesn't meanyitys useless 
+
+Geracao: 462 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you pl/nn0d it to do doesn't mean it's useless 
+
+Geracao: 463 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you pl/nn0d it to do doesn't mean it's useless 
+
+Geracao: 464 Maior Fitness: 90.809689 | Gene: Just because something doesn't !o what you Xl/nn0d it to do doesn't mean it's useless 
+
+Geracao: 465 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 466 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 467 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 468 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 469 Maior Fitness: 93.065744 | Gene: Just because something doesn'! do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 470 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you plnn0d it to do doesn't <ean it's useless 
+
+Geracao: 471 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 472 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 473 Maior Fitness: 93.065744 | Gene: Jjst because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 474 Maior Fitness: 93.065744 | Gene: Just because,something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 475 Maior Fitness: 88.581315 | Gene:  ust because something doesn't do wat you plnn0d it to do doesn't meaf it's useless 
+
+Geracao: 476 Maior Fitness: 90.809689 | Gene: Just because something 1oesn't~do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 477 Maior Fitness: 90.809689 | Gene: Just because someqhing doesn'j do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 478 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnn0d it to do doesn't mean it's useless 
+
+Geracao: 479 Maior Fitness: 90.809689 | Gene: Just because something doesn't do what you pf-n0d it to do doesn't mean it's useless 
+
+Geracao: 480 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what nou plnned it to do doesn't mean it's useless 
+
+Geracao: 481 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 482 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 483 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what yZu plnned it to do doesn't mean it's useless 
+
+Geracao: 484 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 485 Maior Fitness: 93.065744 | Gene: Just because somethinH doesn't do what yo plannd it to do doesn't mean it's useless 
+
+Geracao: 486 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 487 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it~s useless 
+
+Geracao: 488 Maior Fitness: 95.349481 | Gene: Just because something do3sn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 489 Maior Fitness: 95.349481 | Gene: dust because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 490 Maior Fitness: 95.349481 | Gene: dust because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 491 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 492 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 493 Maior Fitness: 93.065744 | Gene: Just because somethrng doesn't do what you plnned it to doldoesn't mean it's useless 
+
+Geracao: 494 Maior Fitness: 95.349481 | Gene: Just because something doPsn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 495 Maior Fitness: 95.349481 | Gene: Just because something doesn't do Ihat you plnned it to do doesn't mean it's useless 
+
+Geracao: 496 Maior Fitness: 93.065744 | Gene: Just>because something doesn't do what you plannd it t! do doesn't mean it's useless 
+
+Geracao: 497 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 498 Maior Fitness: 95.349481 | Gene: Just because somethinC doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 499 Maior Fitness: 88.581315 | Gene: Jus: becauLe something doesn't do what you plnned Vt to do doesn't mean it's usezess 
+
+Geracao: 500 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 501 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's usele
+s 
+
+Geracao: 502 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it's useless 
+
+Geracao: 503 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnned it to do doesY't mean it's useless 
+
+Geracao: 504 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you plnned it to d; doesn't mean it's uselbss 
+
+Geracao: 505 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannVd it to do doesn't mean it's useless 
+
+Geracao: 506 Maior Fitness: 95.349481 | Gene: Just iecause something doesn't do what you plannVd it to do doesn't mean it's useless 
+
+Geracao: 507 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 508 Maior Fitness: 95.349481 | Gene: Just because something does-'t do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 509 Maior Fitness: 95.349481 | Gene: Just because something Foesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 510 Maior Fitness: 95.349481 | Gene: Just because somethiug doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 511 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pl"nned it to do doesn't mean it's useless 
+
+Geracao: 512 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pl"nned it to do doesn't mean it's useless 
+
+Geracao: 513 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pl"nned it to do doesn't mean it's useless 
+
+Geracao: 514 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pl"nned it to do doesn't mean it's useless 
+
+Geracao: 515 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pl"nned it to do doesn't mean it's useless 
+
+Geracao: 516 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what `ou pl"nned it to do doesn't mean it's useless 
+
+Geracao: 517 Maior Fitness: 93.065744 | Gene: Just beFause something doesn't do what you plannd it to do doesn't mean it'suuseless 
+
+Geracao: 518 Maior Fitness: 95.349481 | Gene: Just because something doesn't do7what you plannd it to do doesn't mean it's useless 
+
+Geracao: 519 Maior Fitness: 93.065744 | Gene: Just be\ause something doesn't do what you plannd it go do doesn't mean it's useless 
+
+Geracao: 520 Maior Fitness: 93.065744 | Gene: Just because something doesn't do what you plannd it to do dosn't mean it's uselesL 
+
+Geracao: 521 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnned it to do doesn't mean it'sRuseless 
+
+Geracao: 522 Maior Fitness: 93.065744 | Gene: Iust because something doesn't do what you plannd it t' do doesn't mean it's useless 
+
+Geracao: 523 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plann_d it to do doesn't mean it'r useless 
+
+Geracao: 524 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plannd it to do doesn't mean -t's useless 
+
+Geracao: 525 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 526 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 527 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 528 Maior Fitness: 90.809689 | Gene: Just because sumething doesn't do what you plannd it0to do does.'t mean it's useless 
+
+Geracao: 529 Maior Fitness: 93.065744 | Gene: Just because something doesn't do whatqyou plannd it to do doesn)t mean it's useless 
+
+Geracao: 530 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you plannd it to do doesn't mean it's useless 
+
+Geracao: 531 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you klannd it to do doesn't mean it's useless 
+
+Geracao: 532 Maior Fitness: 97.660900 | Gene: Just be-ause something doesn't do what you planned it to do doesn't mean it's useless 
+
+Geracao: 533 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pcanned it to do doesn't mean it's useless 
+
+Geracao: 534 Maior Fitness: 97.660900 | Gene: Just because something doesn't do what you pcanned it to do doesn't mean it's useless 
+
+Geracao: 535 Maior Fitness: 93.065744 | Gene: Just because so'ething .oesn't do what you pcanned it to do doesn't mean it's useless 
+
+Geracao: 536 Maior Fitness: 95.349481 | Gene: Just because something doesn't do what you plnned it to do dIesn't mean it's useless 
+
+Geracao: 537 Maior Fitness: 93.065744 | Gene: Just becausu something doesn't do what you plnned it to do`doesn't mean it's useless 
+
+Geracao: 538 Maior Fitness: 93.065744 | Gene: Just because so+ething doesn't do what you plann2d it to do doesn't mea  it's useless 
+
+Geracao: 539 Maior Fitness: 100.000000 | Gene: Just because something doesn't do what you planned it to do doesn't mean it's useless 
