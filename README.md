@@ -1,5 +1,5 @@
 # text-gene.py
-Código que usa principios da programação genética para advinhar o texto que você digitou em Python
+Based on infinite shakespeare monkey, generic algorithm
 
 ## Usage
 ```git clone https://github.com/rafaelfaustini/text-gene.py.git```
