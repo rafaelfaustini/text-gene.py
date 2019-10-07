@@ -1,5 +1,5 @@
 # text-gene.py
-Based on infinite shakespeare monkey, generic algorithm
+Based on infinite shakespeare monkey, genetic algorithm
 
 ## Usage
 ```git clone https://github.com/rafaelfaustini/text-gene.py.git```
